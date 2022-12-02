@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Creative</title>
-	<atom:link href="/category/creative/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://mobkoistatic.netlify.app/category/creative/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mobkoistatic.netlify.app/</link>
 	<description></description>
 	<lastBuildDate>Tue, 08 Nov 2022 15:16:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/08/cropped-Mobkoi_Favicon-150x150.png</url>
+	<url>https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/cropped-Mobkoi_Favicon-150x150.png</url>
 	<title>Creative</title>
-	<link>/</link>
+	<link>https://mobkoistatic.netlify.app/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Take your NFT Campaign to the next level</title>
-		<link>/take-your-nft-campaign-to-the-next-level/</link>
+		<link>https://mobkoistatic.netlify.app/take-your-nft-campaign-to-the-next-level/</link>
 		
 		<dc:creator><![CDATA[Alison Hoffman - Marketing Manager]]></dc:creator>
 		<pubDate>Thu, 20 Oct 2022 09:30:47 +0000</pubDate>
@@ -64,7 +64,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-64441ea2 elementor-widget__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-tp-post-meta" data-id="64441ea2" data-element_type="widget" data-widget_type="tp-post-meta.default">
 				<div class="elementor-widget-container">
-			<div class="tp-post-meta-info tp-meta-layout-1" ><div class="tp-post-meta-info-inner"><span class="tp-meta-date" ><span class="tp-meta-date-label tp-meta-label" ></span><a class="tp-meta-value" href="/take-your-nft-campaign-to-the-next-level/"><i class="far fa-clock"></i>October 20, 2022</a></span></div></div>		</div>
+			<div class="tp-post-meta-info tp-meta-layout-1" ><div class="tp-post-meta-info-inner"><span class="tp-meta-date" ><span class="tp-meta-date-label tp-meta-label" ></span><a class="tp-meta-value" href="https://mobkoistatic.netlify.app/take-your-nft-campaign-to-the-next-level/"><i class="far fa-clock"></i>October 20, 2022</a></span></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -77,7 +77,7 @@
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a href="https://mobkoistatic.netlify.app/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -119,7 +119,7 @@ For brands looking to offer NFTs as part of a digital campaign, the following ar
 								<div class="elementor-element elementor-element-2d62e068 elementor-widget elementor-widget-image" data-id="2d62e068" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.8.1 - 13-11-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="487" height="469" src="/wp-content/uploads/2022/08/NFT-Collection_iPhone-Layers.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2022/08/NFT-Collection_iPhone-Layers.png 487w, /wp-content/uploads/2022/08/NFT-Collection_iPhone-Layers-300x289.png 300w" sizes="(max-width: 487px) 100vw, 487px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="487" height="469" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/NFT-Collection_iPhone-Layers.png" class="attachment-large size-large" alt="" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/NFT-Collection_iPhone-Layers.png 487w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/NFT-Collection_iPhone-Layers-300x289.png 300w" sizes="(max-width: 487px) 100vw, 487px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -142,12 +142,12 @@ A contextually targeted mobile web campaign is a great avenue to reach consumers
 				</div>
 				<div class="elementor-element elementor-element-752f3b9 elementor-widget elementor-widget-tp-clients-listout" data-id="752f3b9" data-element_type="widget" data-widget_type="tp-clients-listout.default">
 				<div class="elementor-widget-container">
-			<div id="pt-plus-clients-post-list" class="clients-list post6389eb6308c38  list-carousel-slick client-style-1 "   data-slider_direction="false" data-slide_speed="1500" data-slider_desktop_column="5" data-steps_slide="1" data-slider_draggable="false" data-multi_drag="false" data-slider_infinite="true" data-slider_pause_hover="false" data-slider_adaptive_height="false" data-slider_animation="ease" data-slider_autoplay="true" data-autoplay_speed="1700" data-slider_tablet_column="3" data-tablet_steps_slide="1" data-slider_responsive_tablet="no" data-slider_mobile_column="3" data-mobile_steps_slide="1" data-slider_responsive_mobile="yes" data-mobile_slider_draggable="false" data-mobile_slider_infinite="true" data-mobile_slider_autoplay="true" data-mobile_autoplay_speed="1500" data-mobile_slider_dots="false" data-mobile_slider_arrows="false" data-mobile_slider_rows="1" data-mobile_center_mode="true"  data-mobile_center_padding="0" data-slider_dots="false" data-slider_dots_style="slick-dots " data-slider_arrows="false" data-slider_arrows_style=""  data-arrows_position=""  data-arrow_bg_color=""  data-arrow_icon_color=""  data-arrow_hover_bg_color=""  data-arrow_hover_icon_color=""  data-slider_center_mode="true"  data-center_padding="44"  data-scale_center_slide="0.8"  data-scale_normal_slide="0.6"  data-opacity_normal_slide="0.6"  data-slider_rows="1"  data-id="post6389eb6308c38" data-style="style-1"  data-enable-isotope="1"><div class="tp-row post-inner-loop    flex-wrap tp-align-items-center post6389eb6308c38"><div class="grid-item flex-column flex-wrap     "><article id="post-27624" class="post-27624 theplus_clients type-theplus_clients status-publish has-post-thumbnail hentry theplus_clients_cat-nft-blog">
+			<div id="pt-plus-clients-post-list" class="clients-list post6389ed5bdec87  list-carousel-slick client-style-1 "   data-slider_direction="false" data-slide_speed="1500" data-slider_desktop_column="5" data-steps_slide="1" data-slider_draggable="false" data-multi_drag="false" data-slider_infinite="true" data-slider_pause_hover="false" data-slider_adaptive_height="false" data-slider_animation="ease" data-slider_autoplay="true" data-autoplay_speed="1700" data-slider_tablet_column="3" data-tablet_steps_slide="1" data-slider_responsive_tablet="no" data-slider_mobile_column="3" data-mobile_steps_slide="1" data-slider_responsive_mobile="yes" data-mobile_slider_draggable="false" data-mobile_slider_infinite="true" data-mobile_slider_autoplay="true" data-mobile_autoplay_speed="1500" data-mobile_slider_dots="false" data-mobile_slider_arrows="false" data-mobile_slider_rows="1" data-mobile_center_mode="true"  data-mobile_center_padding="0" data-slider_dots="false" data-slider_dots_style="slick-dots " data-slider_arrows="false" data-slider_arrows_style=""  data-arrows_position=""  data-arrow_bg_color=""  data-arrow_icon_color=""  data-arrow_hover_bg_color=""  data-arrow_hover_icon_color=""  data-slider_center_mode="true"  data-center_padding="44"  data-scale_center_slide="0.8"  data-scale_normal_slide="0.6"  data-opacity_normal_slide="0.6"  data-slider_rows="1"  data-id="post6389ed5bdec87" data-style="style-1"  data-enable-isotope="1"><div class="tp-row post-inner-loop    flex-wrap tp-align-items-center post6389ed5bdec87"><div class="grid-item flex-column flex-wrap     "><article id="post-27624" class="post-27624 theplus_clients type-theplus_clients status-publish has-post-thumbnail hentry theplus_clients_cat-nft-blog">
 	<div class="client-post-content">
 		<div class="client-content-logo">
 		<div>	<div class="client-featured-logo">
 		<span class="thumb-wrap">
-			<img width="300" height="150" src="/wp-content/uploads/2022/08/BBC-World_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="/wp-content/uploads/2022/08/BBC-World_Client-Logo.png 300w, /wp-content/uploads/2022/08/BBC-World_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
+			<img width="300" height="150" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/BBC-World_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/BBC-World_Client-Logo.png 300w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/BBC-World_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
 	</div></div>		</div>
 			</div>
 </article>
@@ -156,7 +156,7 @@ A contextually targeted mobile web campaign is a great avenue to reach consumers
 		<div class="client-content-logo">
 		<div>	<div class="client-featured-logo">
 		<span class="thumb-wrap">
-			<img width="300" height="150" src="/wp-content/uploads/2022/08/Bloomberg_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="/wp-content/uploads/2022/08/Bloomberg_Client-Logo.png 300w, /wp-content/uploads/2022/08/Bloomberg_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
+			<img width="300" height="150" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Bloomberg_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Bloomberg_Client-Logo.png 300w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Bloomberg_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
 	</div></div>		</div>
 			</div>
 </article>
@@ -165,7 +165,7 @@ A contextually targeted mobile web campaign is a great avenue to reach consumers
 		<div class="client-content-logo">
 		<div>	<div class="client-featured-logo">
 		<span class="thumb-wrap">
-			<img width="300" height="150" src="/wp-content/uploads/2022/08/Bustle_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="/wp-content/uploads/2022/08/Bustle_Client-Logo.png 300w, /wp-content/uploads/2022/08/Bustle_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
+			<img width="300" height="150" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Bustle_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Bustle_Client-Logo.png 300w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Bustle_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
 	</div></div>		</div>
 			</div>
 </article>
@@ -174,7 +174,7 @@ A contextually targeted mobile web campaign is a great avenue to reach consumers
 		<div class="client-content-logo">
 		<div>	<div class="client-featured-logo">
 		<span class="thumb-wrap">
-			<img width="300" height="150" src="/wp-content/uploads/2022/08/Forbes_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="/wp-content/uploads/2022/08/Forbes_Client-Logo.png 300w, /wp-content/uploads/2022/08/Forbes_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
+			<img width="300" height="150" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Forbes_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Forbes_Client-Logo.png 300w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Forbes_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
 	</div></div>		</div>
 			</div>
 </article>
@@ -183,7 +183,7 @@ A contextually targeted mobile web campaign is a great avenue to reach consumers
 		<div class="client-content-logo">
 		<div>	<div class="client-featured-logo">
 		<span class="thumb-wrap">
-			<img width="300" height="150" src="/wp-content/uploads/2022/08/Reuters_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="/wp-content/uploads/2022/08/Reuters_Client-Logo.png 300w, /wp-content/uploads/2022/08/Reuters_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
+			<img width="300" height="150" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Reuters_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Reuters_Client-Logo.png 300w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Reuters_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
 	</div></div>		</div>
 			</div>
 </article>
@@ -192,7 +192,7 @@ A contextually targeted mobile web campaign is a great avenue to reach consumers
 		<div class="client-content-logo">
 		<div>	<div class="client-featured-logo">
 		<span class="thumb-wrap">
-			<img width="300" height="150" src="/wp-content/uploads/2022/08/The-Independant_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="/wp-content/uploads/2022/08/The-Independant_Client-Logo.png 300w, /wp-content/uploads/2022/08/The-Independant_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
+			<img width="300" height="150" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/The-Independant_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/The-Independant_Client-Logo.png 300w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/The-Independant_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
 	</div></div>		</div>
 			</div>
 </article>
@@ -201,7 +201,7 @@ A contextually targeted mobile web campaign is a great avenue to reach consumers
 		<div class="client-content-logo">
 		<div>	<div class="client-featured-logo">
 		<span class="thumb-wrap">
-			<img width="300" height="150" src="/wp-content/uploads/2022/08/USA-Today_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="/wp-content/uploads/2022/08/USA-Today_Client-Logo.png 300w, /wp-content/uploads/2022/08/USA-Today_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
+			<img width="300" height="150" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/USA-Today_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/USA-Today_Client-Logo.png 300w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/USA-Today_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
 	</div></div>		</div>
 			</div>
 </article>
@@ -210,7 +210,7 @@ A contextually targeted mobile web campaign is a great avenue to reach consumers
 		<div class="client-content-logo">
 		<div>	<div class="client-featured-logo">
 		<span class="thumb-wrap">
-			<img width="300" height="150" src="/wp-content/uploads/2022/08/Wall-Street-Journal_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="/wp-content/uploads/2022/08/Wall-Street-Journal_Client-Logo.png 300w, /wp-content/uploads/2022/08/Wall-Street-Journal_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
+			<img width="300" height="150" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Wall-Street-Journal_Client-Logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Wall-Street-Journal_Client-Logo.png 300w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Wall-Street-Journal_Client-Logo-1300x650.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />		</span>
 	</div></div>		</div>
 			</div>
 </article>
@@ -226,7 +226,7 @@ A contextually targeted mobile web campaign is a great avenue to reach consumers
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-6f3fa03 elementor-widget elementor-widget-image" data-id="6f3fa03" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="683" height="1024" src="/wp-content/uploads/2022/08/NFT-Samsung_Creative-683x1024.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2022/08/NFT-Samsung_Creative-683x1024.png 683w, /wp-content/uploads/2022/08/NFT-Samsung_Creative-200x300.png 200w, /wp-content/uploads/2022/08/NFT-Samsung_Creative-768x1152.png 768w, /wp-content/uploads/2022/08/NFT-Samsung_Creative.png 800w" sizes="(max-width: 683px) 100vw, 683px" />															</div>
+															<img decoding="async" width="683" height="1024" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/NFT-Samsung_Creative-683x1024.png" class="attachment-large size-large" alt="" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/NFT-Samsung_Creative-683x1024.png 683w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/NFT-Samsung_Creative-200x300.png 200w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/NFT-Samsung_Creative-768x1152.png 768w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/NFT-Samsung_Creative.png 800w" sizes="(max-width: 683px) 100vw, 683px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -271,11 +271,11 @@ Marketing stakeholders should have granular visibility into where ads are runnin
 				</div>
 				<div class="elementor-element elementor-element-0158cc6 elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-tp-cascading-image" data-id="0158cc6" data-element_type="widget" data-widget_type="tp-cascading-image.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_animated_image cascading-block  wpb_single_image cascading_6389eb631fb21   "  ><div class="cascading-inner-loop "><div id="cascading6389eb631fb490" class="cascading-image elementor-repeater-item-2cb0931 img6389eb631fb3b0   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1171968   not-link-content  " ><img width="531" height="1165" src="/wp-content/uploads/2022/10/NFT-Analytics_One-1.png" class="parallax_image" alt="" decoding="async" srcset="/wp-content/uploads/2022/10/NFT-Analytics_One-1.png 531w, /wp-content/uploads/2022/10/NFT-Analytics_One-1-137x300.png 137w, /wp-content/uploads/2022/10/NFT-Analytics_One-1-467x1024.png 467w" sizes="(max-width: 531px) 100vw, 531px" /></div></div></div><div id="cascading6389eb63201a51" class="cascading-image elementor-repeater-item-4291728 img6389eb63201a11   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1224475   not-link-content  " ><img width="724" height="1165" src="/wp-content/uploads/2022/10/NFT-Analytics_Two-1.png" class="parallax_image" alt="" decoding="async" srcset="/wp-content/uploads/2022/10/NFT-Analytics_Two-1.png 724w, /wp-content/uploads/2022/10/NFT-Analytics_Two-1-186x300.png 186w, /wp-content/uploads/2022/10/NFT-Analytics_Two-1-636x1024.png 636w" sizes="(max-width: 724px) 100vw, 724px" /></div></div></div><div id="cascading6389eb632060f2" class="cascading-image elementor-repeater-item-a327a6f img6389eb632060c2   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1251752   not-link-content  " ><img width="519" height="1165" src="/wp-content/uploads/2022/10/NFT-Analytics_Three-1.png" class="parallax_image" alt="" decoding="async" srcset="/wp-content/uploads/2022/10/NFT-Analytics_Three-1.png 519w, /wp-content/uploads/2022/10/NFT-Analytics_Three-1-134x300.png 134w, /wp-content/uploads/2022/10/NFT-Analytics_Three-1-456x1024.png 456w" sizes="(max-width: 519px) 100vw, 519px" /></div></div></div><div id="cascading6389eb6320a6f3" class="cascading-image elementor-repeater-item-547ebcd img6389eb6320a6d3   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1223540   not-link-content  " ><img width="521" height="1165" src="/wp-content/uploads/2022/10/NFT-Analytics_Four-1.png" class="parallax_image" alt="" decoding="async" srcset="/wp-content/uploads/2022/10/NFT-Analytics_Four-1.png 521w, /wp-content/uploads/2022/10/NFT-Analytics_Four-1-134x300.png 134w, /wp-content/uploads/2022/10/NFT-Analytics_Four-1-458x1024.png 458w" sizes="(max-width: 521px) 100vw, 521px" /></div></div></div><div id="cascading6389eb6320ed74" class="cascading-image elementor-repeater-item-e2ac427 img6389eb6320ed44   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1234845   not-link-content  " ><img width="517" height="1165" src="/wp-content/uploads/2022/10/NFT-Analytics_Five-1.png" class="parallax_image" alt="" decoding="async" srcset="/wp-content/uploads/2022/10/NFT-Analytics_Five-1.png 517w, /wp-content/uploads/2022/10/NFT-Analytics_Five-1-133x300.png 133w, /wp-content/uploads/2022/10/NFT-Analytics_Five-1-454x1024.png 454w" sizes="(max-width: 517px) 100vw, 517px" /></div></div></div></div></div><style>.cascading-image.img6389eb631fb3b0{top:auto;bottom:auto;left:-60%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img6389eb63201a11{top:auto;bottom:auto;left:-35%;right:0%;max-width:246px;margin: 0 auto;}.cascading-image.img6389eb632060c2{top:auto;bottom:auto;left:0%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img6389eb6320a6d3{top:-20%;bottom:auto;left:30%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img6389eb6320ed44{top:0%;bottom:auto;left:60%;right:0%;max-width:180px;margin: 0 auto;}</style>		</div>
+			<div class="pt_plus_animated_image cascading-block  wpb_single_image cascading_6389ed5bf2266   "  ><div class="cascading-inner-loop "><div id="cascading6389ed5bf227c0" class="cascading-image elementor-repeater-item-2cb0931 img6389ed5bf22700   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1222744   not-link-content  " ><img width="531" height="1165" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_One-1.png" class="parallax_image" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_One-1.png 531w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_One-1-137x300.png 137w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_One-1-467x1024.png 467w" sizes="(max-width: 531px) 100vw, 531px" /></div></div></div><div id="cascading6389ed5bf28b11" class="cascading-image elementor-repeater-item-4291728 img6389ed5bf28af1   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1182630   not-link-content  " ><img width="724" height="1165" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Two-1.png" class="parallax_image" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Two-1.png 724w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Two-1-186x300.png 186w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Two-1-636x1024.png 636w" sizes="(max-width: 724px) 100vw, 724px" /></div></div></div><div id="cascading6389ed5bf2c972" class="cascading-image elementor-repeater-item-a327a6f img6389ed5bf2c952   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1320422   not-link-content  " ><img width="519" height="1165" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Three-1.png" class="parallax_image" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Three-1.png 519w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Three-1-134x300.png 134w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Three-1-456x1024.png 456w" sizes="(max-width: 519px) 100vw, 519px" /></div></div></div><div id="cascading6389ed5bf2fd63" class="cascading-image elementor-repeater-item-547ebcd img6389ed5bf2fd43   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1007108   not-link-content  " ><img width="521" height="1165" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Four-1.png" class="parallax_image" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Four-1.png 521w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Four-1-134x300.png 134w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Four-1-458x1024.png 458w" sizes="(max-width: 521px) 100vw, 521px" /></div></div></div><div id="cascading6389ed5bf32ff4" class="cascading-image elementor-repeater-item-e2ac427 img6389ed5bf32fd4   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1467298   not-link-content  " ><img width="517" height="1165" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Five-1.png" class="parallax_image" alt="" decoding="async" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Five-1.png 517w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Five-1-133x300.png 133w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Analytics_Five-1-454x1024.png 454w" sizes="(max-width: 517px) 100vw, 517px" /></div></div></div></div></div><style>.cascading-image.img6389ed5bf22700{top:auto;bottom:auto;left:-60%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img6389ed5bf28af1{top:auto;bottom:auto;left:-35%;right:0%;max-width:246px;margin: 0 auto;}.cascading-image.img6389ed5bf2c952{top:auto;bottom:auto;left:0%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img6389ed5bf2fd43{top:-20%;bottom:auto;left:30%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img6389ed5bf32fd4{top:0%;bottom:auto;left:60%;right:0%;max-width:180px;margin: 0 auto;}</style>		</div>
 				</div>
 				<div class="elementor-element elementor-element-0642384 elementor-hidden-desktop elementor-widget elementor-widget-image" data-id="0642384" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="1024" height="480" src="/wp-content/uploads/2022/10/NFT-Collection_Analytics-1024x480.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2022/10/NFT-Collection_Analytics-1024x480.png 1024w, /wp-content/uploads/2022/10/NFT-Collection_Analytics-300x141.png 300w, /wp-content/uploads/2022/10/NFT-Collection_Analytics-768x360.png 768w, /wp-content/uploads/2022/10/NFT-Collection_Analytics-1536x720.png 1536w, /wp-content/uploads/2022/10/NFT-Collection_Analytics.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+															<img decoding="async" width="1024" height="480" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Collection_Analytics-1024x480.png" class="attachment-large size-large" alt="" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Collection_Analytics-1024x480.png 1024w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Collection_Analytics-300x141.png 300w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Collection_Analytics-768x360.png 768w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Collection_Analytics-1536x720.png 1536w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/NFT-Collection_Analytics.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-a89d74d elementor-widget elementor-widget-heading" data-id="a89d74d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -315,7 +315,7 @@ Marketing stakeholders should have granular visibility into where ads are runnin
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-87b891b elementor-widget__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-tp-post-meta" data-id="87b891b" data-element_type="widget" data-widget_type="tp-post-meta.default">
 				<div class="elementor-widget-container">
-			<div class="tp-post-meta-info tp-meta-layout-2" ><div class="tp-post-meta-info-inner"><span class="tp-meta-author" ><span class="tp-meta-author-label tp-meta-label" ></span><a class="tp-meta-value" href="/author/alison-hoffman/" rel="author"><span><img alt='' src='https://secure.gravatar.com/avatar/b11977e67e081380f659ce305ddd9c1a?s=200&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/b11977e67e081380f659ce305ddd9c1a?s=400&#038;d=mm&#038;r=g 2x' class='avatar avatar-200 photo' height='200' width='200' decoding='async'/></span>Alison Hoffman - Marketing Manager</a></span></div></div>		</div>
+			<div class="tp-post-meta-info tp-meta-layout-2" ><div class="tp-post-meta-info-inner"><span class="tp-meta-author" ><span class="tp-meta-author-label tp-meta-label" ></span><a class="tp-meta-value" href="https://mobkoistatic.netlify.app/author/alison-hoffman/" rel="author"><span><img alt='' src='https://secure.gravatar.com/avatar/b11977e67e081380f659ce305ddd9c1a?s=200&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/b11977e67e081380f659ce305ddd9c1a?s=400&#038;d=mm&#038;r=g 2x' class='avatar avatar-200 photo' height='200' width='200' decoding='async'/></span>Alison Hoffman - Marketing Manager</a></span></div></div>		</div>
 				</div>
 					</div>
 		</div>
