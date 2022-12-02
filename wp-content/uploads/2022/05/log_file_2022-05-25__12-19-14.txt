@@ -1,0 +1,24 @@
+
+---Downloaded files---
+The import files for: Food Blog were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = https://mobkoimigration.wpcomstaging.com
+Data file = /srv/htdocs/wp-content/uploads/2022/05/demo-content-import-file_2022-05-25__12-19-14.xml
+Widget file = /srv/htdocs/wp-content/uploads/2022/05/demo-widgets-import-file_2022-05-25__12-19-14.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search blog - Imported
+Categories - Categories - Imported
+Around Posts Widget - Trending posts - Imported
+Tag Cloud - Popular Tags - Imported
+
+
+
+---ocdi/after_import---
+

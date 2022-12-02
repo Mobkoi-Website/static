@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Event Landing were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = https://mobkoimigration.wpcomstaging.com
+Data file = /srv/htdocs/wp-content/uploads/2022/06/demo-content-import-file_2022-06-22__11-33-27.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/after_import---
+
