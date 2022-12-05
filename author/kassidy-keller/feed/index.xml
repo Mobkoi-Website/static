@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kassidy Keller | VP of Global Marketing</title>
-	<atom:link href="https://mobkoistatic.netlify.app/author/kassidy-keller/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mobkoistatic.netlify.app/</link>
+	<atom:link href="https://www.mobkoi.com/author/kassidy-keller/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.mobkoi.com/</link>
 	<description></description>
 	<lastBuildDate>Tue, 08 Nov 2022 15:20:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/cropped-Mobkoi_Favicon-150x150.png</url>
+	<url>https://www.mobkoi.com/wp-content/uploads/2022/08/cropped-Mobkoi_Favicon-150x150.png</url>
 	<title>Kassidy Keller | VP of Global Marketing</title>
-	<link>https://mobkoistatic.netlify.app/</link>
+	<link>https://www.mobkoi.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mobile Mastery: Four Key Drivers of Attention</title>
-		<link>https://mobkoistatic.netlify.app/mobile-mastery-four-key-drivers-of-attention/</link>
+		<link>https://www.mobkoi.com/mobile-mastery-four-key-drivers-of-attention/</link>
 		
 		<dc:creator><![CDATA[Kassidy Keller &#124; VP of Global Marketing]]></dc:creator>
 		<pubDate>Mon, 31 Oct 2022 11:32:18 +0000</pubDate>
 				<category><![CDATA[Insight]]></category>
 		<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">https://mobkoistatic.netlify.app/?p=27633</guid>
+		<guid isPermaLink="false">https://www.mobkoi.com/?p=27633</guid>
 
 					<description><![CDATA[Mastering attention advertising is no small feat. See how Mobkoi helps advertisers capitalize on the attention economy by focusing on the four key drivers of attention.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="27633" class="elementor elementor-27633">
@@ -64,7 +64,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-64441ea2 elementor-widget__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-tp-post-meta" data-id="64441ea2" data-element_type="widget" data-widget_type="tp-post-meta.default">
 				<div class="elementor-widget-container">
-			<div class="tp-post-meta-info tp-meta-layout-1" ><div class="tp-post-meta-info-inner"><span class="tp-meta-date" ><span class="tp-meta-date-label tp-meta-label" ></span><a class="tp-meta-value" href="https://mobkoistatic.netlify.app/mobile-mastery-four-key-drivers-of-attention/"><i class="far fa-clock"></i>October 31, 2022</a></span></div></div>		</div>
+			<div class="tp-post-meta-info tp-meta-layout-1" ><div class="tp-post-meta-info-inner"><span class="tp-meta-date" ><span class="tp-meta-date-label tp-meta-label" ></span><a class="tp-meta-value" href="https://www.mobkoi.com/mobile-mastery-four-key-drivers-of-attention/"><i class="far fa-clock"></i>October 31, 2022</a></span></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -77,7 +77,7 @@
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://mobkoistatic.netlify.app/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a href="https://www.mobkoi.com/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -129,9 +129,9 @@ Just because an ad is viewable and takes up ample screen real estate doesn’t m
 				</div>
 				<div class="elementor-element elementor-element-3b6b672 elementor-cta--skin-cover elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="3b6b672" data-element_type="widget" data-widget_type="call-to-action.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://mobkoistatic.netlify.app/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css">		<div class="elementor-cta">
+			<link rel="stylesheet" href="https://www.mobkoi.com/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css">		<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/jason-goodman-BAanEbxe9No-unsplash-683x1024.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://www.mobkoi.com/wp-content/uploads/2022/10/jason-goodman-BAanEbxe9No-unsplash-683x1024.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -226,7 +226,7 @@ The user can opt-out of the screen simply by scrolling to dismiss the ad, but a 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-dd25c62 elementor-widget elementor-widget-tp-video-player" data-id="dd25c62" data-element_type="widget" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player638dd9d1128fc  " ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player638dd9d1128fc" src="https://player.vimeo.com/video/757374847?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player638ddbd1bbc0b  " ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player638ddbd1bbc0b" src="https://player.vimeo.com/video/757374847?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -253,7 +253,7 @@ In the attention economy, advertisers have little over a second to capture a con
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/pexels-fauxels-3183177-1024x683.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://www.mobkoi.com/wp-content/uploads/2022/10/pexels-fauxels-3183177-1024x683.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -364,7 +364,7 @@ Here are the results.
 								<div class="elementor-element elementor-element-8fbc521 elementor-widget elementor-widget-image" data-id="8fbc521" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.8.1 - 13-11-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="447" height="600" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/Eye-Tracking-Mobile.png" class="attachment-large size-large" alt="" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/Eye-Tracking-Mobile.png 447w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/Eye-Tracking-Mobile-224x300.png 224w" sizes="(max-width: 447px) 100vw, 447px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="447" height="600" src="https://www.mobkoi.com/wp-content/uploads/2022/10/Eye-Tracking-Mobile.png" class="attachment-large size-large" alt="" srcset="https://www.mobkoi.com/wp-content/uploads/2022/10/Eye-Tracking-Mobile.png 447w, https://www.mobkoi.com/wp-content/uploads/2022/10/Eye-Tracking-Mobile-224x300.png 224w" sizes="(max-width: 447px) 100vw, 447px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -388,7 +388,7 @@ With Mobkoi’s full-screen ads, the Luxury Retailer and Multinational Energy Co
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/pexels-thomas-vanhaecht-215367-1024x683.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://www.mobkoi.com/wp-content/uploads/2022/10/pexels-thomas-vanhaecht-215367-1024x683.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -478,7 +478,7 @@ The combination of longer active viewing and enhanced brand recall make it clear
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-fb03be1 elementor-widget elementor-widget-image" data-id="fb03be1" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="818" height="1024" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/Brand-Lift_Graphic-818x1024.png" class="attachment-large size-large" alt="" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/Brand-Lift_Graphic-818x1024.png 818w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/Brand-Lift_Graphic-240x300.png 240w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/Brand-Lift_Graphic-768x961.png 768w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/Brand-Lift_Graphic.png 1204w" sizes="(max-width: 818px) 100vw, 818px" />															</div>
+															<img decoding="async" width="818" height="1024" src="https://www.mobkoi.com/wp-content/uploads/2022/10/Brand-Lift_Graphic-818x1024.png" class="attachment-large size-large" alt="" srcset="https://www.mobkoi.com/wp-content/uploads/2022/10/Brand-Lift_Graphic-818x1024.png 818w, https://www.mobkoi.com/wp-content/uploads/2022/10/Brand-Lift_Graphic-240x300.png 240w, https://www.mobkoi.com/wp-content/uploads/2022/10/Brand-Lift_Graphic-768x961.png 768w, https://www.mobkoi.com/wp-content/uploads/2022/10/Brand-Lift_Graphic.png 1204w" sizes="(max-width: 818px) 100vw, 818px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -502,7 +502,7 @@ The combination of longer active viewing and enhanced brand recall make it clear
 				</div>
 				<div class="elementor-element elementor-element-081c485 elementor-widget elementor-widget-image" data-id="081c485" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="1024" height="456" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Lumen-Results-Graph-1024x456.png" class="attachment-large size-large" alt="" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Lumen-Results-Graph-1024x456.png 1024w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Lumen-Results-Graph-300x134.png 300w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Lumen-Results-Graph-768x342.png 768w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Lumen-Results-Graph-1536x684.png 1536w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Lumen-Results-Graph.png 1896w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+															<img decoding="async" width="1024" height="456" src="https://www.mobkoi.com/wp-content/uploads/2022/08/Lumen-Results-Graph-1024x456.png" class="attachment-large size-large" alt="" srcset="https://www.mobkoi.com/wp-content/uploads/2022/08/Lumen-Results-Graph-1024x456.png 1024w, https://www.mobkoi.com/wp-content/uploads/2022/08/Lumen-Results-Graph-300x134.png 300w, https://www.mobkoi.com/wp-content/uploads/2022/08/Lumen-Results-Graph-768x342.png 768w, https://www.mobkoi.com/wp-content/uploads/2022/08/Lumen-Results-Graph-1536x684.png 1536w, https://www.mobkoi.com/wp-content/uploads/2022/08/Lumen-Results-Graph.png 1896w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-816403c elementor-widget elementor-widget-heading" data-id="816403c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -545,7 +545,7 @@ Make your mobile ads stand out and capitalize on the attention economy with MOBK
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-87b891b elementor-widget__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-tp-post-meta" data-id="87b891b" data-element_type="widget" data-widget_type="tp-post-meta.default">
 				<div class="elementor-widget-container">
-			<div class="tp-post-meta-info tp-meta-layout-2" ><div class="tp-post-meta-info-inner"><span class="tp-meta-author" ><span class="tp-meta-author-label tp-meta-label" ></span><a class="tp-meta-value" href="https://mobkoistatic.netlify.app/author/kassidy-keller/" rel="author"><span><img alt='' src='https://secure.gravatar.com/avatar/a7e6a9aef03ce5d866508b955fd3fc39?s=200&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a7e6a9aef03ce5d866508b955fd3fc39?s=400&#038;d=mm&#038;r=g 2x' class='avatar avatar-200 photo' height='200' width='200' decoding='async'/></span>Kassidy Keller | VP of Global Marketing</a></span></div></div>		</div>
+			<div class="tp-post-meta-info tp-meta-layout-2" ><div class="tp-post-meta-info-inner"><span class="tp-meta-author" ><span class="tp-meta-author-label tp-meta-label" ></span><a class="tp-meta-value" href="https://www.mobkoi.com/author/kassidy-keller/" rel="author"><span><img alt='' src='https://secure.gravatar.com/avatar/a7e6a9aef03ce5d866508b955fd3fc39?s=200&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a7e6a9aef03ce5d866508b955fd3fc39?s=400&#038;d=mm&#038;r=g 2x' class='avatar avatar-200 photo' height='200' width='200' decoding='async'/></span>Kassidy Keller | VP of Global Marketing</a></span></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -563,13 +563,13 @@ Make your mobile ads stand out and capitalize on the attention economy with MOBK
 			</item>
 		<item>
 		<title>The Future of Mobile Advertising</title>
-		<link>https://mobkoistatic.netlify.app/the-future-of-mobile-advertising/</link>
+		<link>https://www.mobkoi.com/the-future-of-mobile-advertising/</link>
 		
 		<dc:creator><![CDATA[Kassidy Keller &#124; VP of Global Marketing]]></dc:creator>
 		<pubDate>Mon, 24 Oct 2022 09:41:59 +0000</pubDate>
 				<category><![CDATA[Insight]]></category>
 		<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">https://mobkoistatic.netlify.app/?p=27552</guid>
+		<guid isPermaLink="false">https://www.mobkoi.com/?p=27552</guid>
 
 					<description><![CDATA[The future of mobile advertising is already here. Is your business ready to keep up with the trends that grab consumers' attention?]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="27552" class="elementor elementor-27552">
@@ -597,7 +597,7 @@ Make your mobile ads stand out and capitalize on the attention economy with MOBK
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-64441ea2 elementor-widget__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-tp-post-meta" data-id="64441ea2" data-element_type="widget" data-widget_type="tp-post-meta.default">
 				<div class="elementor-widget-container">
-			<div class="tp-post-meta-info tp-meta-layout-1" ><div class="tp-post-meta-info-inner"><span class="tp-meta-date" ><span class="tp-meta-date-label tp-meta-label" ></span><a class="tp-meta-value" href="https://mobkoistatic.netlify.app/the-future-of-mobile-advertising/"><i class="far fa-clock"></i>October 24, 2022</a></span></div></div>		</div>
+			<div class="tp-post-meta-info tp-meta-layout-1" ><div class="tp-post-meta-info-inner"><span class="tp-meta-date" ><span class="tp-meta-date-label tp-meta-label" ></span><a class="tp-meta-value" href="https://www.mobkoi.com/the-future-of-mobile-advertising/"><i class="far fa-clock"></i>October 24, 2022</a></span></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -610,7 +610,7 @@ Make your mobile ads stand out and capitalize on the attention economy with MOBK
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://mobkoistatic.netlify.app/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a href="https://www.mobkoi.com/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -671,7 +671,7 @@ Flash forward a handful of years, and online behavior has drastically changed. G
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Women-using-mobile-phone_2-1024x219.png);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://www.mobkoi.com/wp-content/uploads/2022/08/Women-using-mobile-phone_2-1024x219.png);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -729,7 +729,7 @@ Here are a handful of the benefits and challenges of mobile marketing to keep in
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://mobkoistatic.netlify.app/wp-content/uploads/2022/10/young-happy-people-using-mobile-phones-outdoor-1024x268.png);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://www.mobkoi.com/wp-content/uploads/2022/10/young-happy-people-using-mobile-phones-outdoor-1024x268.png);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -801,7 +801,7 @@ Agencies can create brilliant mobile creative but, if it’s not placed on relev
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Women-using-mobile-phone_3-1024x219.png);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://www.mobkoi.com/wp-content/uploads/2022/08/Women-using-mobile-phone_3-1024x219.png);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -889,7 +889,7 @@ This is why Google announced they would phase out the third-party cookie on Chro
 					<div class="elementor-background-overlay"></div>
 								<div class="elementor-element elementor-element-22caff1 e-transform elementor-widget elementor-widget-tp-video-player" data-id="22caff1" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player638dd9d182afc  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player638dd9d182afc" src="https://player.vimeo.com/video/752504763?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player638ddbd23a1bf  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player638ddbd23a1bf" src="https://player.vimeo.com/video/752504763?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -901,7 +901,7 @@ This is why Google announced they would phase out the third-party cookie on Chro
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-8fbc521 elementor-widget elementor-widget-image" data-id="8fbc521" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="683" height="1024" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Strongbow-683x1024.png" class="attachment-large size-large" alt="Strongbow Creative and QR Code" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Strongbow-683x1024.png 683w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Strongbow-200x300.png 200w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Strongbow-768x1152.png 768w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Strongbow.png 800w" sizes="(max-width: 683px) 100vw, 683px" />															</div>
+															<img decoding="async" width="683" height="1024" src="https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Strongbow-683x1024.png" class="attachment-large size-large" alt="Strongbow Creative and QR Code" srcset="https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Strongbow-683x1024.png 683w, https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Strongbow-200x300.png 200w, https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Strongbow-768x1152.png 768w, https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Strongbow.png 800w" sizes="(max-width: 683px) 100vw, 683px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -946,7 +946,7 @@ All of these types of mobile ads help generate attention and engagement, however
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-57d3d06 elementor-widget elementor-widget-image" data-id="57d3d06" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="683" height="1024" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Olympia-683x1024.png" class="attachment-large size-large" alt="Burberry Creative with QR Code" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Olympia-683x1024.png 683w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Olympia-200x300.png 200w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Olympia-768x1152.png 768w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Olympia.png 800w" sizes="(max-width: 683px) 100vw, 683px" />															</div>
+															<img decoding="async" width="683" height="1024" src="https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Olympia-683x1024.png" class="attachment-large size-large" alt="Burberry Creative with QR Code" srcset="https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Olympia-683x1024.png 683w, https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Olympia-200x300.png 200w, https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Olympia-768x1152.png 768w, https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Olympia.png 800w" sizes="(max-width: 683px) 100vw, 683px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -1020,7 +1020,7 @@ Consider utilizing interscroller ads. These ads reveal the content as the reader
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5bae56d elementor-widget elementor-widget-image" data-id="5bae56d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="683" height="1024" src="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Riley-Example-683x1024.png" class="attachment-large size-large" alt="Riley Creative - Difference between good and bad AD" srcset="https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Riley-Example-683x1024.png 683w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Riley-Example-200x300.png 200w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Riley-Example-768x1152.png 768w, https://mobkoistatic.netlify.app/wp-content/uploads/2022/08/Website_Static-Creative_Riley-Example.png 800w" sizes="(max-width: 683px) 100vw, 683px" />															</div>
+															<img decoding="async" width="683" height="1024" src="https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Riley-Example-683x1024.png" class="attachment-large size-large" alt="Riley Creative - Difference between good and bad AD" srcset="https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Riley-Example-683x1024.png 683w, https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Riley-Example-200x300.png 200w, https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Riley-Example-768x1152.png 768w, https://www.mobkoi.com/wp-content/uploads/2022/08/Website_Static-Creative_Riley-Example.png 800w" sizes="(max-width: 683px) 100vw, 683px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -1095,7 +1095,7 @@ Make sure your mobile advertisements stand the test of time.
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-87b891b elementor-widget__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-tp-post-meta" data-id="87b891b" data-element_type="widget" data-widget_type="tp-post-meta.default">
 				<div class="elementor-widget-container">
-			<div class="tp-post-meta-info tp-meta-layout-2" ><div class="tp-post-meta-info-inner"><span class="tp-meta-author" ><span class="tp-meta-author-label tp-meta-label" ></span><a class="tp-meta-value" href="https://mobkoistatic.netlify.app/author/kassidy-keller/" rel="author"><span><img alt='' src='https://secure.gravatar.com/avatar/a7e6a9aef03ce5d866508b955fd3fc39?s=200&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a7e6a9aef03ce5d866508b955fd3fc39?s=400&#038;d=mm&#038;r=g 2x' class='avatar avatar-200 photo' height='200' width='200' decoding='async'/></span>Kassidy Keller | VP of Global Marketing</a></span></div></div>		</div>
+			<div class="tp-post-meta-info tp-meta-layout-2" ><div class="tp-post-meta-info-inner"><span class="tp-meta-author" ><span class="tp-meta-author-label tp-meta-label" ></span><a class="tp-meta-value" href="https://www.mobkoi.com/author/kassidy-keller/" rel="author"><span><img alt='' src='https://secure.gravatar.com/avatar/a7e6a9aef03ce5d866508b955fd3fc39?s=200&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a7e6a9aef03ce5d866508b955fd3fc39?s=400&#038;d=mm&#038;r=g 2x' class='avatar avatar-200 photo' height='200' width='200' decoding='async'/></span>Kassidy Keller | VP of Global Marketing</a></span></div></div>		</div>
 				</div>
 					</div>
 		</div>
