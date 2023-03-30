@@ -87,33 +87,33 @@
 							},
 
 							onMouseDown: function () {
-
 								var actionURL = elementor.config.elementPromotionURL.replace(
-										'%s',
-										this.model.get( 'name' )
+									'%s',
+									this.model.get( 'name' )
+								),
+								title     = this.model.get( 'title' ),
+								content   = sprintf(
+									wp.i18n.__(
+										'Use %s widget and dozens more pro features to extend your toolbox and build sites faster and better.',
+										'qi-addons-for-elementor'
 									),
-									title     = this.model.get( 'title' ),
-									message   = sprintf(
-										wp.i18n.__(
-											'Use %s widget and dozens more pro features to extend your toolbox and build sites faster and better.',
-											'qi-addons-for-elementor'
-										),
-										title
-									);
+									title
+								),
+								promotion = elementor.config.promotion.elements;
 
 								if ( this.isQodeWidget() ) {
 									var widgetObject = this.getElementObj( this.model.get( 'name' ) );
 									if ( typeof widgetObject.helpUrl !== 'undefined' ) {
 										actionURL = widgetObject.helpUrl;
 									}
-
-									message = sprintf(
+									
+									content = sprintf(
 										wp.i18n.__(
 											'The %s comes with advanced professional functionalities and an even smoother website-making experience. %s Upgrade Qi Addons for Elementor %s',
 											'qi-addons-for-elementor'
 										),
 										title,
-										'<a class="qodef-dialog-box-link" target="_blank" href="https://qodeinteractive.com/pricing-elementor/">',
+										'<a class="qodef-dialog-box-link" target="_blank" href="https://qodeinteractive.com/pricing/">',
 										'</a>'
 									);
 								}
@@ -121,17 +121,24 @@
 								elementor.promotion.showDialog(
 									{
 										/* translators: %s: Widget Title. */
-										headerMessage: sprintf(
+										title: sprintf(
 											wp.i18n.__(
 												'%s Widget',
 												'qi-addons-for-elementor'
 											),
 											title
 										),
-										message: message,
-										top: '-7',
-										element: this.el,
-										actionURL: actionURL
+										content: content,
+										position: {
+											blockStart: '-7'
+										},
+										targetElement: this.el,
+										actionButton: {
+											// eslint-disable-next-line @wordpress/valid-sprintf
+											url: actionURL,
+											text: promotion.action_button.text,
+											classes: promotion.action_button.classes || ['elementor-button', 'go-pro']
+										}
 									}
 								);
 
