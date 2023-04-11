@@ -12,7 +12,7 @@
 	</url>
 	<url>
 		<loc>https://www.mobkoi.com/</loc>
-		<lastmod>2022-12-07T15:35:18+00:00</lastmod>
+		<lastmod>2023-04-11T12:18:20+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/07/Top-Tier-Publishers_Mobile-Home.png</image:loc>
 		</image:image>
@@ -23,7 +23,7 @@
 			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/05/Frame-Two_Full-Screen_No-URL.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/06/Top-Tier-Media_Tile-One.png</image:loc>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2023/04/Top-Tier-Media_Tile-One_New.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/06/Top-Tier-Media_Tile-Two.png</image:loc>
@@ -111,6 +111,25 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://www.mobkoi.com/why-mobkoi/</loc>
+		<lastmod>2023-04-11T12:21:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/12/Why-Mobkoi_Creative-Still_Header.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2023/04/Mobile_Homepage_Top-Tier_New.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/12/Creative_Townhall_Gamification.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/12/Business-Meeting_Two-Women-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/12/Staff-Group-Shot_Banner-e1670332406524-1024x337.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.mobkoi.com/contact-us-publishers/</loc>
 		<lastmod>2023-02-20T10:28:20+00:00</lastmod>
 	</url>
@@ -144,25 +163,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/08/Women-using-mobile-phone-700x700.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.mobkoi.com/why-mobkoi/</loc>
-		<lastmod>2023-01-05T17:32:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/12/Why-Mobkoi_Creative-Still_Header.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/07/Mobile_Homepage_Top-Tier.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/12/Creative_Townhall_Gamification.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/12/Business-Meeting_Two-Women-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/12/Staff-Group-Shot_Banner-e1670332406524-1024x337.png</image:loc>
 		</image:image>
 	</url>
 	<url>
