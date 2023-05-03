@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.12.0 - 29-03-2023 */
+/*! elementor-pro - v3.12.3 - 23-04-2023 */
 .elementor-document-handle {
   display: none;
   align-items: center;
@@ -7,11 +7,11 @@
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  background-color: #5EEAD4;
+  background-color: var(--e-p-border-global);
   padding: 5px 10px;
   font-family: var(--e-a-font-family);
   font-size: 11px;
-  color: #fff;
+  color: var(--e-p-border-global-invert);
   border-radius: 0 0 3px 3px;
   cursor: pointer;
 }
@@ -22,12 +22,12 @@
 }
 .elementor-document-handle:before {
   right: calc(100% - 1px);
-  border-right-color: #5EEAD4;
+  border-right-color: var(--e-p-border-global);
   border-width: 0 14px 23px 0;
 }
 .elementor-document-handle:after {
   left: calc(100% - 1px);
-  border-left-color: #5EEAD4;
+  border-left-color: var(--e-p-border-global);
   border-width: 0 0 23px 14px;
 }
 .elementor-document-handle .eicon-edit {
@@ -36,7 +36,7 @@
 
 .elementor-editor-active .elementor:not(.elementor-edit-mode):hover,
 .elementor-editor-active *[data-editable-elementor-document]:not(.elementor-edit-mode):hover {
-  box-shadow: 0 0 0 1px #5EEAD4;
+  box-shadow: 0 0 0 1px var(--e-p-border-global);
 }
 .elementor-editor-active [data-widget_type="theme-post-content.default"] .elementor:not(.elementor-edit-mode):hover,
 .elementor-editor-active [data-widget_type="theme-post-content.default"] *[data-editable-elementor-document]:not(.elementor-edit-mode):hover {
@@ -107,11 +107,11 @@
   margin-left: 5px;
 }
 .elementor-loop-container > div.elementor-edit-area-active:first-of-type {
-  border: 1px solid #5EEAD4;
+  border: 1px solid var(--e-p-border-global);
 }
 
 div[class*=elementor-widget-loop] .elementor-edit-area-active[data-editable-elementor-document], div[class*=elementor-widget-loop] .elementor-edit-area-active.swiper-slide-active, div[class*=elementor-widget-loop] .elementor-edit-area-active.e-loop-first-edit:first-of-type {
-  border: 1px solid #5EEAD4;
+  border: 1px solid var(--e-p-border-global);
 }
 div[class*=elementor-widget-loop] .elementor-edit-area-active .elementor-document-save-back-handle {
   display: flex;
