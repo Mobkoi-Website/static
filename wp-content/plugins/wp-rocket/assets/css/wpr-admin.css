@@ -99,8 +99,8 @@ a:focus, button:focus {
 \*-----------------------------------------------*/
 @font-face {
   font-family: "wpr-icomoon";
-  src: url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/fonts/icomoon.eot");
-  src: url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/fonts/icomoon.eot#iefix") format("embedded-opentype"), url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/fonts/icomoon.woff") format("woff"), url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/fonts/icomoon.ttf") format("truetype"), url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/fonts/icomoon.svg#icomoon") format("svg");
+  src: url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/fonts/icomoon.eot");
+  src: url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/fonts/icomoon.eot#iefix") format("embedded-opentype"), url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/fonts/icomoon.woff") format("woff"), url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/fonts/icomoon.ttf") format("truetype"), url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/fonts/icomoon.svg#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -252,31 +252,31 @@ a:focus, button:focus {
 }
 
 .wpr-icon-heartbeat:before, #wpr-nav-heartbeat:before {
-  content: url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/heartbeat.svg");
+  content: url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/heartbeat.svg");
 }
 
 .wpr-icon-heartbeat-hover:before, #wpr-nav-heartbeat.isActive:before, #wpr-nav-heartbeat:hover:before {
-  content: url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/heartbeat-hover.svg");
+  content: url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/heartbeat-hover.svg");
 }
 
 .wpr-icon-imagify:before, #wpr-nav-imagify:before {
-  content: url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/imagify.svg");
+  content: url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/imagify.svg");
 }
 
 .wpr-icon-imagify-hover:before, #wpr-nav-imagify.isActive:before, #wpr-nav-imagify:hover:before {
-  content: url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/imagify-hover.svg");
+  content: url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/imagify-hover.svg");
 }
 
 .wpr-icon-tutorial:before, #wpr-nav-tutorials:before {
-  content: url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/play.svg");
+  content: url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/play.svg");
 }
 
 .wpr-icon-tutorial-hover:before, #wpr-nav-tutorials.isActive:before, #wpr-nav-tutorials:hover:before {
-  content: url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/play-hover.svg");
+  content: url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/play-hover.svg");
 }
 
 .wpr-icon-tutorial-alt:before {
-  content: url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/play-alt.svg");
+  content: url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/play-alt.svg");
 }
 
 .wpr-title1 {
@@ -883,13 +883,13 @@ a:focus, button:focus {
   transform: translateY(-50%);
 }
 .wpr-rocketcdn-cta .wpr-rocketcdn-bandwidth:before {
-  content: url(https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/bandwidth.svg);
+  content: url(http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/bandwidth.svg);
 }
 .wpr-rocketcdn-cta .wpr-rocketcdn-configuration:before {
-  content: url(https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/configuration.svg);
+  content: url(http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/configuration.svg);
 }
 .wpr-rocketcdn-cta .wpr-rocketcdn-automatic:before {
-  content: url(https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/automatic.svg);
+  content: url(http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/automatic.svg);
 }
 .wpr-rocketcdn-cta-footer {
   color: #121116;
@@ -907,7 +907,7 @@ a:focus, button:focus {
   position: absolute;
   width: 14px;
   height: 15px;
-  background: url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/icon-i-circle.svg") no-repeat center center;
+  background: url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/icon-i-circle.svg") no-repeat center center;
   top: 3px;
   left: 0;
 }
@@ -992,7 +992,7 @@ a:focus, button:focus {
 }
 
 .wpr-Upgrade-Plus .wpr-upgrade-title::before {
-  content: url(https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/plus.svg);
+  content: url(http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/plus.svg);
   display: block;
   width: 117px;
   height: 31px;
@@ -1003,7 +1003,7 @@ a:focus, button:focus {
 }
 
 .wpr-Upgrade-Infinite .wpr-upgrade-title::before {
-  content: url(https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/infinite.svg);
+  content: url(http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/infinite.svg);
   display: block;
   width: 48px;
   height: 31px;
@@ -1232,7 +1232,7 @@ div.wpr-upgrade-websites {
   font-weight: bold;
 }
 .rocket-expired-title::before {
-  content: url(https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/warning.svg);
+  content: url(http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/warning.svg);
   display: inline-block;
   height: 48px;
   width: 63px;
@@ -2119,7 +2119,7 @@ div.wpr-upgrade-websites {
 .wpr-notice {
   position: relative;
   color: #444444;
-  background: #EBFAF5 url("https://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/bg-activated.svg") no-repeat 90% bottom;
+  background: #EBFAF5 url("http://www.mobkoi.com/wp-content/plugins/wp-rocket/assets/img/bg-activated.svg") no-repeat 90% bottom;
   background-size: 350px;
   margin-top: 24px;
   border-radius: 4px;
