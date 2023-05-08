@@ -2,7 +2,7 @@
 
 echo "Updating..."
 
-find /home/customer/git/static/ \( -type d -name .git -prune \) -o -type f -print0 | xargs -0 sed -i 's/www.mobkoi.com/www.mobkoi.com/g'
+find /home/customer/git/static/ \( -type d -name .git  -o -type f -name 'update.sh' -prune \) -o -type f -print0 | xargs -0 sed -i 's/stage.wp.mobkoi.com/www.mobkoi.com/g'
 
 cd /home/customer/git/static/
 /usr/bin/git pull origin main
