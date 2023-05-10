@@ -5,6 +5,7 @@ echo "Updating..."
 find /home/customer/git/static/ \( -type d -name .git  -o -type f -name 'update.sh' -prune \) -o -type f -print0 | xargs -0 sed -i 's/stage.wp.mobkoi.com/www.mobkoi.com/g'
 
 cd /home/customer/git/static/
+rm -rf /home/customer/git/static/.git/index.lock
 /usr/bin/git pull origin main
 /usr/bin/git add .
 /usr/bin/git commit -m "Automated Commit"
