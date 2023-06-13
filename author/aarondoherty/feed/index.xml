@@ -39,7 +39,7 @@
 
 					<description><![CDATA[You’ve likely heard about brand safety and suitability, but do you know why they’re important to your business? Let’s take a closer look at these topics.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="28678" class="elementor elementor-28678">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-b8b27b8 elementor-section-height-min-height elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="b8b27b8" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-b8b27b8 elementor-section-height-min-height elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle magic-button-disabled-no" data-id="b8b27b8" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50b8df0f" data-id="50b8df0f" data-element_type="column">
@@ -48,7 +48,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-edf5538 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="edf5538" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-edf5538 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="edf5538" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-419a8246" data-id="419a8246" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -58,7 +58,7 @@
 			<style>/*! elementor - v3.13.3 - 28-05-2023 */
 .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">THE ABC&#8217;s OF BRAND SAFETY: BRAND &#038; SUITABILITY MADE SIMPLE</h2>		</div>
 				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-44151270 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="44151270" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-44151270 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="44151270" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-55d38fd4" data-id="55d38fd4" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -93,7 +93,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8434889 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8434889" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8434889 elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="8434889" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5fbe5aa" data-id="5fbe5aa" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -109,7 +109,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d3fdced elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d3fdced" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d3fdced elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="d3fdced" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-8451685" data-id="8451685" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -127,7 +127,7 @@
 				</div>
 				<div class="elementor-element elementor-element-cd22186 elementor-widget elementor-widget-tp-process-steps" data-id="cd22186" data-element_type="widget" data-widget_type="tp-process-steps.default">
 				<div class="elementor-widget-container">
-			<div id="proste6483285dbc93d" class="tp-process-steps-widget style_1     "  data-connection="" data-eventtype=""><div class="tp-process-steps-wrapper elementor-repeater-item-91142c3 elementor-ps-content-0 " data-index="0"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc upper_alpha"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">A is for Advertising</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Brands should always have brand safety guidelines that apply to their advertising. Not only should it outline what counts for a branded ad, but also where these ads should and shouldn’t be placed. By avoiding these unsavory websites, you’re protecting your brand and also ensuring your ads aren’t producing fraudulent clicks.</span></p><p><span style="font-weight: 400">Brand safety should be a priority for mobile and desktop advertising.</span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-a2909c9 elementor-ps-content-1 " data-index="1"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc upper_alpha"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">B is for Brand Reputation</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Like we said, brand safety is about safeguarding your brand reputation. Your brand is your organization’s most valuable asset. Chances are you’ve spent years and countless dollars refining your image to capture consumer attention, and now it’s time to keep your brand safe.</span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-1dcf845 elementor-ps-content-2 " data-index="2"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc upper_alpha"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">C is for Content</h4> <div class="tp-pro-step-desc"> <span style="font-weight: 400">You don’t want your ads appearing alongside inappropriate content. Again, even if your message is relevant to your brand and the consumers you are reaching, if it’s on a site with offensive content it can leave a negative impression</span>
+			<div id="proste64886ff6d3205" class="tp-process-steps-widget style_1     "  data-connection="" data-eventtype=""><div class="tp-process-steps-wrapper elementor-repeater-item-91142c3 elementor-ps-content-0 " data-index="0"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc upper_alpha"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">A is for Advertising</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Brands should always have brand safety guidelines that apply to their advertising. Not only should it outline what counts for a branded ad, but also where these ads should and shouldn’t be placed. By avoiding these unsavory websites, you’re protecting your brand and also ensuring your ads aren’t producing fraudulent clicks.</span></p><p><span style="font-weight: 400">Brand safety should be a priority for mobile and desktop advertising.</span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-a2909c9 elementor-ps-content-1 " data-index="1"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc upper_alpha"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">B is for Brand Reputation</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Like we said, brand safety is about safeguarding your brand reputation. Your brand is your organization’s most valuable asset. Chances are you’ve spent years and countless dollars refining your image to capture consumer attention, and now it’s time to keep your brand safe.</span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-1dcf845 elementor-ps-content-2 " data-index="2"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc upper_alpha"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">C is for Content</h4> <div class="tp-pro-step-desc"> <span style="font-weight: 400">You don’t want your ads appearing alongside inappropriate content. Again, even if your message is relevant to your brand and the consumers you are reaching, if it’s on a site with offensive content it can leave a negative impression</span>
 
 <span style="font-weight: 400">Not only do you need to ensure your ads are showing up on contextually relevant sites, but it is even more critical that other content on those sites meets your brand safety&nbsp;standards.</span> </div></span></div></div></div>		</div>
 				</div>
@@ -135,7 +135,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-94cfddc elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="94cfddc" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-94cfddc elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="94cfddc" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-c08c1a8" data-id="c08c1a8" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -155,7 +155,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a54ae1d elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a54ae1d" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a54ae1d elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="a54ae1d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5335444" data-id="5335444" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -172,7 +172,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-c7f8ce3 elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c7f8ce3" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-c7f8ce3 elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="c7f8ce3" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-61649b0" data-id="61649b0" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -200,7 +200,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7d51133 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7d51133" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7d51133 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="7d51133" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-169cdcf" data-id="169cdcf" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -217,7 +217,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-bed8859 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bed8859" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-bed8859 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="bed8859" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-c0a8a65" data-id="c0a8a65" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -236,7 +236,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f7188fd elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f7188fd" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f7188fd elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="f7188fd" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-860f14a" data-id="860f14a" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -265,7 +265,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-505581f elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="505581f" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-505581f elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="505581f" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-98fe342" data-id="98fe342" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -293,7 +293,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7433671 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7433671" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7433671 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="7433671" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d79ee34" data-id="d79ee34" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -325,7 +325,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-0a3aad2 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0a3aad2" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-0a3aad2 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="0a3aad2" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-145951e" data-id="145951e" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -342,7 +342,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-04661ed animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="04661ed" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-04661ed animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no elementor-invisible" data-id="04661ed" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-cdba2d6" data-id="cdba2d6" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -366,7 +366,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-cf98865 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cf98865" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-cf98865 elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="cf98865" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5e5d17b" data-id="5e5d17b" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">

@@ -39,7 +39,7 @@
 
 					<description><![CDATA[In a relatively short time, mobile devices have become ubiquitous and mobile usage has transformed into an all-consuming experience. Today, the estimated time spent on mobile in the US is up to 4 hours and 29 minutes.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="28003" class="elementor elementor-28003">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-b8b27b8 elementor-section-height-min-height elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="b8b27b8" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-b8b27b8 elementor-section-height-min-height elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle magic-button-disabled-no" data-id="b8b27b8" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50b8df0f" data-id="50b8df0f" data-element_type="column">
@@ -48,7 +48,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-edf5538 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="edf5538" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-edf5538 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="edf5538" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-419a8246" data-id="419a8246" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -58,7 +58,7 @@
 			<style>/*! elementor - v3.13.3 - 28-05-2023 */
 .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Stop the Scroll: How to Win Attention on Mobile</h2>		</div>
 				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-44151270 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="44151270" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-44151270 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="44151270" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-55d38fd4" data-id="55d38fd4" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -93,7 +93,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8434889 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8434889" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8434889 elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="8434889" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5fbe5aa" data-id="5fbe5aa" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -121,7 +121,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d3fdced elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d3fdced" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d3fdced elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="d3fdced" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8451685" data-id="8451685" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -146,13 +146,13 @@
 								<div id="slide-content-2131" class="plus-slide-content grid-item ">
 						<div class="slide-content-inner">
 							<div class="plus-content-editor">		<div data-elementor-type="page" data-elementor-id="23714" class="elementor elementor-23714">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-82c2207 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82c2207" data-element_type="section">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-82c2207 elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="82c2207" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70d513c" data-id="70d513c" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-339e7b2 elementor-widget elementor-widget-tp-image-factory" data-id="339e7b2" data-element_type="widget" data-widget_type="tp-image-factory.default">
 				<div class="elementor-widget-container">
-			<div id="plus648328617e5b0" class="pt-plus-animated-image-wrapper      " ><div class="animated-image-parallax   " ><div class="pt_plus_animated_image bg-image648328617e5a9 text-center  "  >
+			<div id="plus64886ff354896" class="pt-plus-animated-image-wrapper      " ><div class="animated-image-parallax   " ><div class="pt_plus_animated_image bg-image64886ff354890 text-center  "  >
 							<figure class="     "  >
 								<div class="vc_single_image-wrapper   "><img decoding="async" width="711" height="1465" src="https://www.mobkoi.com/wp-content/uploads/2022/06/BAD-AD_Creative.png" class="attachment-full size-full wp-image-23715" alt="" srcset="https://www.mobkoi.com/wp-content/uploads/2022/06/BAD-AD_Creative.png 711w, https://www.mobkoi.com/wp-content/uploads/2022/06/BAD-AD_Creative-146x300.png 146w, https://www.mobkoi.com/wp-content/uploads/2022/06/BAD-AD_Creative-497x1024.png 497w" sizes="(max-width: 711px) 100vw, 711px" /></div>						
 							</figure>
@@ -169,13 +169,13 @@
 									<div id="slide-content-2132" class="plus-slide-content grid-item ">
 						<div class="slide-content-inner">
 							<div class="plus-content-editor">		<div data-elementor-type="page" data-elementor-id="23720" class="elementor elementor-23720">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-82c2207 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82c2207" data-element_type="section">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-82c2207 elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="82c2207" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70d513c" data-id="70d513c" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-339e7b2 elementor-widget elementor-widget-tp-image-factory" data-id="339e7b2" data-element_type="widget" data-widget_type="tp-image-factory.default">
 				<div class="elementor-widget-container">
-			<div id="plus648328618385d" class="pt-plus-animated-image-wrapper      " ><div class="animated-image-parallax   " ><div class="pt_plus_animated_image bg-image6483286183858 text-center  "  >
+			<div id="plus64886ff359c3b" class="pt-plus-animated-image-wrapper      " ><div class="animated-image-parallax   " ><div class="pt_plus_animated_image bg-image64886ff359c36 text-center  "  >
 							<figure class="     "  >
 								<div class="vc_single_image-wrapper   "><img decoding="async" width="711" height="1465" src="https://www.mobkoi.com/wp-content/uploads/2022/06/GOOD-AD_Creative.png" class="attachment-full size-full wp-image-23716" alt="" srcset="https://www.mobkoi.com/wp-content/uploads/2022/06/GOOD-AD_Creative.png 711w, https://www.mobkoi.com/wp-content/uploads/2022/06/GOOD-AD_Creative-146x300.png 146w, https://www.mobkoi.com/wp-content/uploads/2022/06/GOOD-AD_Creative-497x1024.png 497w" sizes="(max-width: 711px) 100vw, 711px" /></div>						
 							</figure>
@@ -201,7 +201,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-62de0da elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="62de0da" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-62de0da elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="62de0da" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-08fac67" data-id="08fac67" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -217,7 +217,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-769647b elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="769647b" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-769647b elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="769647b" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-cf14b97" data-id="cf14b97" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -235,13 +235,13 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-db67d69 elementor-widget elementor-widget-tp-video-player" data-id="db67d69" data-element_type="widget" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64832861a8439   creative-mask-media" ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64832861a8439" src="https://player.vimeo.com/video/779249502?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64886ff38003c   creative-mask-media" ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64886ff38003c" src="https://player.vimeo.com/video/779249502?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-150e388 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="150e388" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-150e388 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="150e388" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-d05bd86" data-id="d05bd86" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -255,13 +255,13 @@
 				</div>
 				<div class="elementor-element elementor-element-7dd20fd elementor-widget elementor-widget-tp-process-steps" data-id="7dd20fd" data-element_type="widget" data-widget_type="tp-process-steps.default">
 				<div class="elementor-widget-container">
-			<div id="proste64832861b86ec" class="tp-process-steps-widget style_1     "  data-connection="" data-eventtype=""><div class="tp-process-steps-wrapper elementor-repeater-item-91142c3 elementor-ps-content-0 " data-index="0"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Define what success looks like and align on expectations:</h4> <div class="tp-pro-step-desc"> <p>If you want to build hyper-engaging mobile ads, the first step is determining and aligning on campaign goals. Defining goals will help you map out the path your consumers will take from the first interaction to the conversion. This path will inform your ad creative, and time frame of the campaign, and allow you to track your results more effectively.</p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-a2909c9 elementor-ps-content-1 " data-index="1"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Think about ads as experiences:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Don’t be in the business of creating ads. Instead, focus on entertaining and delighting your audience with unique experiences that stand out in the clutter. Remember, interactivity is the key to boosting engagement. </span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-1dcf845 elementor-ps-content-2 " data-index="2"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Find the right partners to execute:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Collaborate with partners that have already done the legwork to make your ad experiences a reality. Our expertise at MOBKOI is </span><i><span style="font-weight: 400">tech-enabled </span></i><span style="font-weight: 400">mobile ad innovation. We have spent nearly a decade honing our craft and know the right technologies and techniques that work on the mobile platform (so you don’t have to).  </span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-c0cbf33 elementor-ps-content-3 " data-index="3"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Learn and iterate:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">In order to innovate, it is critical that advertisers have the right reporting mechanisms in place to quickly and easily analyze performance as campaigns run. Moreover, advertisers should look beyond viewability to more powerful and actionable metrics like attention to truly understand how ads are resonating and driving business outcomes. </span></p> </div></span></div></div></div>		</div>
+			<div id="proste64886ff390f42" class="tp-process-steps-widget style_1     "  data-connection="" data-eventtype=""><div class="tp-process-steps-wrapper elementor-repeater-item-91142c3 elementor-ps-content-0 " data-index="0"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Define what success looks like and align on expectations:</h4> <div class="tp-pro-step-desc"> <p>If you want to build hyper-engaging mobile ads, the first step is determining and aligning on campaign goals. Defining goals will help you map out the path your consumers will take from the first interaction to the conversion. This path will inform your ad creative, and time frame of the campaign, and allow you to track your results more effectively.</p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-a2909c9 elementor-ps-content-1 " data-index="1"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Think about ads as experiences:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Don’t be in the business of creating ads. Instead, focus on entertaining and delighting your audience with unique experiences that stand out in the clutter. Remember, interactivity is the key to boosting engagement. </span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-1dcf845 elementor-ps-content-2 " data-index="2"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Find the right partners to execute:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Collaborate with partners that have already done the legwork to make your ad experiences a reality. Our expertise at MOBKOI is </span><i><span style="font-weight: 400">tech-enabled </span></i><span style="font-weight: 400">mobile ad innovation. We have spent nearly a decade honing our craft and know the right technologies and techniques that work on the mobile platform (so you don’t have to).  </span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-c0cbf33 elementor-ps-content-3 " data-index="3"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Learn and iterate:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">In order to innovate, it is critical that advertisers have the right reporting mechanisms in place to quickly and easily analyze performance as campaigns run. Moreover, advertisers should look beyond viewability to more powerful and actionable metrics like attention to truly understand how ads are resonating and driving business outcomes. </span></p> </div></span></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-04661ed animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="04661ed" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-04661ed animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no elementor-invisible" data-id="04661ed" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-cdba2d6" data-id="cdba2d6" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -284,7 +284,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-cf98865 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cf98865" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-cf98865 elementor-section-boxed elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="cf98865" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5e5d17b" data-id="5e5d17b" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
