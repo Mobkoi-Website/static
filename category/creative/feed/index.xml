@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 
 <image>
 	<url>https://www.mobkoi.com/wp-content/uploads/2022/08/cropped-Profile-Image_MOBKOI-150x150.jpg</url>
@@ -56,7 +56,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-260c269 elementor-widget elementor-widget-heading" data-id="260c269" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
+			<style>/*! elementor - v3.15.0 - 09-08-2023 */
 .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Everything You Need To Know About Interscroller Ads</h2>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-44151270 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="44151270" data-element_type="section">
@@ -78,7 +78,7 @@
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.com/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.com/resource_hub">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -136,29 +136,29 @@
 				</div>
 				<div class="elementor-element elementor-element-befe3d4 elementor-widget__width-initial elementor-hidden-mobile elementor-absolute elementor-hidden-tablet elementor-widget elementor-widget-image" data-id="befe3d4" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
+			<style>/*! elementor - v3.15.0 - 09-08-2023 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>									<figure class="wp-caption">
-										<img decoding="async" width="826" height="303" src="https://www.mobkoi.com/wp-content/uploads/2023/05/Arrow_Graphic.png" class="attachment-large size-large wp-image-30536" alt="" srcset="https://www.mobkoi.com/wp-content/uploads/2023/05/Arrow_Graphic.png 826w, https://www.mobkoi.com/wp-content/uploads/2023/05/Arrow_Graphic-300x110.png 300w, https://www.mobkoi.com/wp-content/uploads/2023/05/Arrow_Graphic-768x282.png 768w" sizes="(max-width: 826px) 100vw, 826px" />											<figcaption class="widget-image-caption wp-caption-text"></figcaption>
+										<img decoding="async" fetchpriority="high" width="826" height="303" src="https://www.mobkoi.com/wp-content/uploads/2023/05/Arrow_Graphic.png" class="attachment-large size-large wp-image-30536" alt="" srcset="https://www.mobkoi.com/wp-content/uploads/2023/05/Arrow_Graphic.png 826w, https://www.mobkoi.com/wp-content/uploads/2023/05/Arrow_Graphic-300x110.png 300w, https://www.mobkoi.com/wp-content/uploads/2023/05/Arrow_Graphic-768x282.png 768w" sizes="(max-width: 826px) 100vw, 826px" />											<figcaption class="widget-image-caption wp-caption-text"></figcaption>
 										</figure>
 									</div>
 				</div>
 				<div class="elementor-element elementor-element-cf3a3ba elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-pp-info-box" data-id="cf3a3ba" data-element_type="widget" data-widget_type="pp-info-box.default">
 				<div class="elementor-widget-container">
 					<div class="pp-info-box-container">
-		<div class="pp-info-box">
-						<div class="pp-info-box-content">
-				<div class="pp-info-box-title-wrap">
-											<div class="pp-info-box-title-container" >
-							<h4 class="pp-info-box-title">
-								TRY FOR YOURSELF							</h4>
-						</div>
-										</div>
+			<div class="pp-info-box">
+								<div class="pp-info-box-content">
+					<div class="pp-info-box-title-wrap">
+													<div class="pp-info-box-title-container">
+								<h4 class="pp-info-box-title">
+									TRY FOR YOURSELF								</h4>
+							</div>
+												</div>
 
-				
-									<div class="pp-info-box-description">
-						<p>Scroll over the phone to reveal an Interscroller Ad</p>					</div>
-											</div>
-		</div>
+					
+											<div class="pp-info-box-description">
+							<p>Scroll over the phone to reveal an Interscroller Ad</p>						</div>
+														</div>
+			</div>
 		</div>
 				</div>
 				</div>
@@ -177,26 +177,26 @@
 				<div class="elementor-element elementor-element-beebdad elementor-hidden-desktop elementor-widget elementor-widget-pp-info-box" data-id="beebdad" data-element_type="widget" data-widget_type="pp-info-box.default">
 				<div class="elementor-widget-container">
 					<div class="pp-info-box-container">
-		<div class="pp-info-box">
-						<div class="pp-info-box-content">
-				<div class="pp-info-box-title-wrap">
-											<div class="pp-info-box-title-container" >
-							<h4 class="pp-info-box-title">
-								TRY FOR YOURSELF							</h4>
-						</div>
-										</div>
+			<div class="pp-info-box">
+								<div class="pp-info-box-content">
+					<div class="pp-info-box-title-wrap">
+													<div class="pp-info-box-title-container">
+								<h4 class="pp-info-box-title">
+									TRY FOR YOURSELF								</h4>
+							</div>
+												</div>
 
-				
-									<div class="pp-info-box-description">
-						<p>Swipe over the phone to reveal an Interscroller Ad</p>					</div>
-											</div>
-		</div>
+					
+											<div class="pp-info-box-description">
+							<p>Swipe over the phone to reveal an Interscroller Ad</p>						</div>
+														</div>
+			</div>
 		</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-88d4e5d elementor-widget elementor-widget-tp-mouse-cursor" data-id="88d4e5d" data-element_type="widget" data-widget_type="tp-mouse-cursor.default">
 				<div class="elementor-widget-container">
-			<div class='tp-mouse-cursor-wrapper tp-mc64ba56584aa75' data-plus-mc-settings='{"effect":"mc-widget","type":"mouse-cursor-icon","icon_type":"cursor-Icon-predefine","mc_cursor_icon":"pointer"}'></div>		</div>
+			<div class='tp-mouse-cursor-wrapper tp-mc64dcc953a6404' data-plus-mc-settings='{"effect":"mc-widget","type":"mouse-cursor-icon","icon_type":"cursor-Icon-predefine","mc_cursor_icon":"pointer"}'></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -460,7 +460,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-353a1e8 elementor-widget elementor-widget-tp-video-player" data-id="353a1e8" data-element_type="widget" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba5658ef550   creative-mask-media" ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba5658ef550" src="https://player.vimeo.com/video/816519348?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc9544003e   creative-mask-media" ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc9544003e" src="https://player.vimeo.com/video/816519348?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -479,7 +479,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-bc7768e elementor-widget elementor-widget-tp-video-player" data-id="bc7768e" data-element_type="widget" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565900d0a   creative-mask-media" ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565900d0a" src="https://player.vimeo.com/video/819824727?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc9544cc7b   creative-mask-media" ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc9544cc7b" src="https://player.vimeo.com/video/819824727?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -498,7 +498,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9454bbf elementor-widget elementor-widget-tp-video-player" data-id="9454bbf" data-element_type="widget" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba5659071cf   creative-mask-media" ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba5659071cf" src="https://player.vimeo.com/video/793417773?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc95459601   creative-mask-media" ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc95459601" src="https://player.vimeo.com/video/793417773?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -561,7 +561,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-795e120 elementor-align-center e-transform elementor-widget elementor-widget-button" data-id="795e120" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.com/contact-us/" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.com/contact-us/" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">GET IN TOUCH WITH OUR TEAM</span>
 		</span>
@@ -645,7 +645,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.com/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.com/resource_hub">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -711,12 +711,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7dee9d5 e-transform elementor-widget elementor-widget-tp-video-player" data-id="7dee9d5" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba56598331b  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba56598331b" src="https://player.vimeo.com/video/827681225?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc954c98ad  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc954c98ad" src="https://player.vimeo.com/video/827681225?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-e50b975 elementor-align-center e-transform elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="e50b975" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://mobkoi-uk.celtra.com/preview/cd247737#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://mobkoi-uk.celtra.com/preview/cd247737#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -820,7 +820,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				</div>
 				<div class="elementor-element elementor-element-06a1727 elementor-widget elementor-widget-counter" data-id="06a1727" data-element_type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
+			<style>/*! elementor - v3.15.0 - 09-08-2023 */
 .elementor-counter .elementor-counter-number-wrapper{display:flex;font-size:69px;font-weight:600;line-height:1}.elementor-counter .elementor-counter-number-prefix,.elementor-counter .elementor-counter-number-suffix{flex-grow:1;white-space:pre-wrap}.elementor-counter .elementor-counter-number-prefix{text-align:right}.elementor-counter .elementor-counter-number-suffix{text-align:left}.elementor-counter .elementor-counter-title{text-align:center;font-size:19px;font-weight:400;line-height:2.5}</style>		<div class="elementor-counter">
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
@@ -907,12 +907,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1816bde e-transform elementor-widget elementor-widget-tp-video-player" data-id="1816bde" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565a1e0db  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565a1e0db" src="https://player.vimeo.com/video/827583886?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc95531fc8  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc95531fc8" src="https://player.vimeo.com/video/827583886?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-0d3fa19 elementor-align-center e-transform elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="0d3fa19" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://mobkoi-uk.celtra.com/preview/50e37cb0?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://mobkoi-uk.celtra.com/preview/50e37cb0?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -967,7 +967,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9d63722 elementor-widget elementor-widget-tp-process-steps" data-id="9d63722" data-element_type="widget" data-widget_type="tp-process-steps.default">
 				<div class="elementor-widget-container">
-			<div id="proste64ba565a58430" class="tp-process-steps-widget style_1     "  data-connection="" data-eventtype=""><div class="tp-process-steps-wrapper elementor-repeater-item-91142c3 elementor-ps-content-0 " data-index="0"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Keep it Simple:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">No, we’re definitely not talking about sacrificing the quality of your designs for your shoe ads. Just because an ad is simple doesn’t mean it’s still not visually stunning. What we’re saying is that your product should be the star of your shoe ads. Don’t get too bogged down in the details and save </span><a href="https://www.mobkoi.com/7-flashy-new-mobile-ad-creatives-for-2023/" target="_blank" rel="noopener"><span style="font-weight: 400">flashy mobile ad ideas</span></a><span style="font-weight: 400"> for other aspects of your campaign.</span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-a2909c9 elementor-ps-content-1 " data-index="1"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Know your audience:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Oftentimes, consumers engaging with try-on shoe ads are further down the funnel than you think. While AR ads are great for increasing awareness and engagement, they can also be that final push that helps consumers make a purchasing decision. By knowing your target audience, you can provide them with the type of mobile ad experience they’re looking for. </span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-1dcf845 elementor-ps-content-2 " data-index="2"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Placement is key:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Try-on shoe ads can be a part of any campaign, however, they work better when paired with contextual targeting. By placing your eye-catching try-on ads in premium and relevant environments, you’re maximizing the effectiveness of your campaign.</span></p> </div></span></div></div></div>		</div>
+			<div id="proste64dcc95551194" class="tp-process-steps-widget style_1     "  data-connection="" data-eventtype=""><div class="tp-process-steps-wrapper elementor-repeater-item-91142c3 elementor-ps-content-0 " data-index="0"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Keep it Simple:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">No, we’re definitely not talking about sacrificing the quality of your designs for your shoe ads. Just because an ad is simple doesn’t mean it’s still not visually stunning. What we’re saying is that your product should be the star of your shoe ads. Don’t get too bogged down in the details and save </span><a href="https://www.mobkoi.com/7-flashy-new-mobile-ad-creatives-for-2023/" target="_blank" rel="noopener"><span style="font-weight: 400">flashy mobile ad ideas</span></a><span style="font-weight: 400"> for other aspects of your campaign.</span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-a2909c9 elementor-ps-content-1 " data-index="1"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Know your audience:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Oftentimes, consumers engaging with try-on shoe ads are further down the funnel than you think. While AR ads are great for increasing awareness and engagement, they can also be that final push that helps consumers make a purchasing decision. By knowing your target audience, you can provide them with the type of mobile ad experience they’re looking for. </span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-1dcf845 elementor-ps-content-2 " data-index="2"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Placement is key:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Try-on shoe ads can be a part of any campaign, however, they work better when paired with contextual targeting. By placing your eye-catching try-on ads in premium and relevant environments, you’re maximizing the effectiveness of your campaign.</span></p> </div></span></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -975,7 +975,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-32ed3da elementor-widget elementor-widget-tp-video-player" data-id="32ed3da" data-element_type="widget" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565a5d5e0   creative-mask-media" ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565a5d5e0" src="https://player.vimeo.com/video/827683019?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc95555a0c   creative-mask-media" ><div class="pt_plus_video_player  not-touch   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc95555a0c" src="https://player.vimeo.com/video/827683019?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -1004,7 +1004,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-795e120 elementor-align-center e-transform elementor-widget elementor-widget-button" data-id="795e120" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.com/contact-us/" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.com/contact-us/" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">CONTACT THE TEAM TODAY</span>
 		</span>
@@ -1088,7 +1088,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.com/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.com/resource_hub">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -1262,12 +1262,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-85cf7d5 e-transform elementor-widget elementor-widget-tp-video-player" data-id="85cf7d5" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565b07e55  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565b07e55" src="https://player.vimeo.com/video/794441177?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc955e2bb0  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc955e2bb0" src="https://player.vimeo.com/video/794441177?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-d4893b7 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="d4893b7" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/0d017fea#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/0d017fea#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -1301,12 +1301,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9d16795 e-transform elementor-widget elementor-widget-tp-video-player" data-id="9d16795" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565b18938  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565b18938" src="https://player.vimeo.com/video/794455154?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc955f324a  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc955f324a" src="https://player.vimeo.com/video/794455154?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-144de61 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="144de61" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/d0417096?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/d0417096?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -1325,7 +1325,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-59e1074 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="59e1074" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">CTR: 0.31% - 3.1x above bench</span>
 		</span>
@@ -1336,7 +1336,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-0871e39 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="0871e39" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEWABILITY: 75% - 1.3x above bench</span>
 		</span>
@@ -1347,7 +1347,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-68ee94e elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="68ee94e" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">DWELL TIME (SEC): 17s - 5.7x above bench</span>
 		</span>
@@ -1358,7 +1358,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-15ba5d3 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="15ba5d3" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">ENGAGEMENT RATE: 7.06% - 23.5 above bench</span>
 		</span>
@@ -1402,12 +1402,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-99b354f e-transform elementor-widget elementor-widget-tp-video-player" data-id="99b354f" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565b49925  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565b49925" src="https://player.vimeo.com/video/794084021?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc95627c7e  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc95627c7e" src="https://player.vimeo.com/video/794084021?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5671213 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="5671213" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/c94d67ae?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/c94d67ae?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -1425,12 +1425,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-611c1c9 e-transform elementor-widget elementor-widget-tp-video-player" data-id="611c1c9" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565b52f17  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565b52f17" src="https://player.vimeo.com/video/794444481?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc95630740  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc95630740" src="https://player.vimeo.com/video/794444481?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-63080a1 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="63080a1" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/4e89a97f?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -1548,7 +1548,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-795e120 elementor-align-center e-transform elementor-widget elementor-widget-button" data-id="795e120" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:sales@mobkoi.com" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="mailto:sales@mobkoi.com">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">CONTACT SALES</span>
 		</span>
@@ -1632,7 +1632,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.com/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.com/resource_hub">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -1894,12 +1894,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f6a32ad e-transform elementor-widget elementor-widget-tp-video-player" data-id="f6a32ad" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565c4e48c  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565c4e48c" src="https://player.vimeo.com/video/794081690?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc957322ba  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc957322ba" src="https://player.vimeo.com/video/794081690?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-7959a39 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="7959a39" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/e9184af9?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/e9184af9?overrides.deviceInfo.deviceType=Phone#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -1917,12 +1917,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-90a51ee e-transform elementor-widget elementor-widget-tp-video-player" data-id="90a51ee" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565c5691f  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565c5691f" src="https://player.vimeo.com/video/794084021?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc9573b2fd  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc9573b2fd" src="https://player.vimeo.com/video/794084021?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-80e088a elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="80e088a" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/914e82e1?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/914e82e1?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -1991,12 +1991,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-37481a3 e-transform elementor-widget elementor-widget-tp-video-player" data-id="37481a3" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565c765b3  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565c765b3" src="https://player.vimeo.com/video/816519348?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc957624a5  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc957624a5" src="https://player.vimeo.com/video/816519348?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-7c854fb elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="7c854fb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://mobkoi-uk.celtra.com/preview/4f6f2b75#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://mobkoi-uk.celtra.com/preview/4f6f2b75#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -2036,7 +2036,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-795e120 elementor-align-center e-transform elementor-widget elementor-widget-button" data-id="795e120" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:sales@mobkoi.com" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="mailto:sales@mobkoi.com">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">CONTACT SALES</span>
 		</span>
@@ -2120,7 +2120,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.com/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.com/resource_hub">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -2158,7 +2158,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-b385e2c elementor-position-left elementor-vertical-align-middle elementor-widget elementor-widget-image-box" data-id="b385e2c" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
+			<style>/*! elementor - v3.15.0 - 09-08-2023 */
 .elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="1667" height="1667" src="https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon.png" class="attachment-full size-full wp-image-28426" alt="" srcset="https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon.png 1667w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-300x300.png 300w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-1024x1024.png 1024w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-150x150.png 150w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-768x768.png 768w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-1536x1536.png 1536w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-700x700.png 700w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-650x650.png 650w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-1300x1300.png 1300w" sizes="(max-width: 1667px) 100vw, 1667px" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Augmented Reality</h2></div></div>		</div>
 				</div>
 					</div>
@@ -2196,12 +2196,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2ac8f13 e-transform elementor-widget elementor-widget-tp-video-player" data-id="2ac8f13" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565cdd172  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565cdd172" src="https://player.vimeo.com/video/793333069?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc957cc921  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc957cc921" src="https://player.vimeo.com/video/793333069?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-d972b6d elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="d972b6d" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://mobkoi-uk.celtra.com/preview/6bc885d4?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://mobkoi-uk.celtra.com/preview/6bc885d4?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -2231,12 +2231,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-a4b60e3 e-transform elementor-widget elementor-widget-tp-video-player" data-id="a4b60e3" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565ce9cf0  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565ce9cf0" src="https://player.vimeo.com/video/793904213?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc957dac68  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc957dac68" src="https://player.vimeo.com/video/793904213?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-3e9ce41 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="3e9ce41" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://mobkoi-uk.celtra.com/preview/5eab81e7?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://mobkoi-uk.celtra.com/preview/5eab81e7?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -2316,12 +2316,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f6a32ad e-transform elementor-widget elementor-widget-tp-video-player" data-id="f6a32ad" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565d205da  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565d205da" src="https://player.vimeo.com/video/793417773?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc9581d84b  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc9581d84b" src="https://player.vimeo.com/video/793417773?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-7959a39 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="7959a39" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/b41396db#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/b41396db#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -2357,12 +2357,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5b50992 e-transform elementor-widget elementor-widget-tp-video-player" data-id="5b50992" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565d30c0a  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565d30c0a" src="https://player.vimeo.com/video/785211274?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc9582f58f  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc9582f58f" src="https://player.vimeo.com/video/785211274?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-1a7ef31 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="1a7ef31" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/b9c93e22?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/b9c93e22?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -2442,12 +2442,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-99b354f e-transform elementor-widget elementor-widget-tp-video-player" data-id="99b354f" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565d5c303  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565d5c303" src="https://player.vimeo.com/video/793906284?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc9585ce67  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc9585ce67" src="https://player.vimeo.com/video/793906284?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5671213 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="5671213" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/c94d67ae?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/c94d67ae?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -2485,12 +2485,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-611c1c9 e-transform elementor-widget elementor-widget-tp-video-player" data-id="611c1c9" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565d6c594  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565d6c594" src="https://player.vimeo.com/video/793908079?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc9586e4d3  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc9586e4d3" src="https://player.vimeo.com/video/793908079?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-63080a1 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="63080a1" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/a6bc0d62?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/a6bc0d62?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -2566,12 +2566,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5f5c03b e-transform animated-slow elementor-invisible elementor-widget elementor-widget-tp-video-player" data-id="5f5c03b" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565d94163  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565d94163" src="https://player.vimeo.com/video/793909387?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc9589d60a  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc9589d60a" src="https://player.vimeo.com/video/793909387?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-972007e elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="972007e" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://mobkoi-uk.celtra.com/preview/9ed7765a?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://mobkoi-uk.celtra.com/preview/9ed7765a?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -2611,7 +2611,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-795e120 elementor-align-center e-transform elementor-widget elementor-widget-button" data-id="795e120" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:sales@mobkoi.com" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="mailto:sales@mobkoi.com">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">CONTACT SALES</span>
 		</span>
@@ -2694,7 +2694,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.com/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.com/resource_hub">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -2866,7 +2866,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				</div>
 				<div class="elementor-element elementor-element-7dd20fd elementor-widget elementor-widget-tp-process-steps" data-id="7dd20fd" data-element_type="widget" data-widget_type="tp-process-steps.default">
 				<div class="elementor-widget-container">
-			<div id="proste64ba565e2ebac" class="tp-process-steps-widget style_1     "  data-connection="" data-eventtype=""><div class="tp-process-steps-wrapper elementor-repeater-item-91142c3 elementor-ps-content-0 " data-index="0"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Connect with the right audience:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Don’t create a game for the sake of fun. You need to make sure your mobile advergame connects with the right audience. For instance, a luxury handbag brand may have more success with an upscale word game while a candy company can have some more fun with a collecting object game.</span></p><p><span style="font-weight: 400">There has also been criticism about how advergames (when done incorrectly) can target children who cannot </span><a href="https://www.easytechjunkie.com/what-is-advergaming.html" target="_blank" rel="noopener"><span style="font-weight: 400">distinguish between promotions and true play</span></a><span style="font-weight: 400">. Gamified ads don’t need to be dulled down. Make sure the games you create are appropriate for the audience you want to engage with.</span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-a2909c9 elementor-ps-content-1 " data-index="1"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Software considerations:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">There’s a log of leg work that goes on behind-the-scenes to release a stellar advergame. Most importantly, you need to consider mobile software. You want your advergame to be accessible on Google, Safari, etc. </span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-1dcf845 elementor-ps-content-2 " data-index="2"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Balancing brand with fun:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">When creating a mini-game it can be easy to get lost in the fun of things. But it’s important to make sure your brand comes first. Finding the sweet spot between branding and gaming is key to a successful advergame, but is also more difficult than it sounds.</span></p> </div></span></div></div></div>		</div>
+			<div id="proste64dcc9594c1ea" class="tp-process-steps-widget style_1     "  data-connection="" data-eventtype=""><div class="tp-process-steps-wrapper elementor-repeater-item-91142c3 elementor-ps-content-0 " data-index="0"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Connect with the right audience:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">Don’t create a game for the sake of fun. You need to make sure your mobile advergame connects with the right audience. For instance, a luxury handbag brand may have more success with an upscale word game while a candy company can have some more fun with a collecting object game.</span></p><p><span style="font-weight: 400">There has also been criticism about how advergames (when done incorrectly) can target children who cannot </span><a href="https://www.easytechjunkie.com/what-is-advergaming.html" target="_blank" rel="noopener"><span style="font-weight: 400">distinguish between promotions and true play</span></a><span style="font-weight: 400">. Gamified ads don’t need to be dulled down. Make sure the games you create are appropriate for the audience you want to engage with.</span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-a2909c9 elementor-ps-content-1 " data-index="1"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Software considerations:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">There’s a log of leg work that goes on behind-the-scenes to release a stellar advergame. Most importantly, you need to consider mobile software. You want your advergame to be accessible on Google, Safari, etc. </span></p> </div></span></div></div><div class="tp-process-steps-wrapper elementor-repeater-item-1dcf845 elementor-ps-content-2 " data-index="2"><div class="tp-ps-left-imt "><span class="tp-ps-icon-img "><i aria-hidden="true" class="fas fa-star"></i></span><div class="tp-ps-dc number_normal"></div></div><div class="tp-ps-right-content"><span class="tp-ps-content"><h4 class="tp-pro-step-title">Balancing brand with fun:</h4> <div class="tp-pro-step-desc"> <p><span style="font-weight: 400">When creating a mini-game it can be easy to get lost in the fun of things. But it’s important to make sure your brand comes first. Finding the sweet spot between branding and gaming is key to a successful advergame, but is also more difficult than it sounds.</span></p> </div></span></div></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -3014,12 +3014,12 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-28dfeaf e-transform elementor-widget elementor-widget-tp-video-player" data-id="28dfeaf" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba565e756eb  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba565e756eb" src="https://player.vimeo.com/video/783615546?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcc959a1a63  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcc959a1a63" src="https://player.vimeo.com/video/783615546?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-02f9c02 elementor-align-center e-transform elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="02f9c02" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/b41396db" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/b41396db" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">TRY IT YOURSELF</span>
 		</span>
@@ -3094,7 +3094,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-795e120 elementor-align-center e-transform elementor-widget elementor-widget-button" data-id="795e120" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:sales@mobkoi.com" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="mailto:sales@mobkoi.com">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">CONTACT SALES</span>
 		</span>
@@ -3181,7 +3181,7 @@ This is even an issue that Google tried to mitigate back in 2017 by <a href="htt
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.com/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.com/resource_hub">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -3245,7 +3245,7 @@ A contextually targeted mobile web campaign is a great avenue to reach consumers
 				</div>
 				<div class="elementor-element elementor-element-752f3b9 elementor-widget elementor-widget-tp-clients-listout" data-id="752f3b9" data-element_type="widget" data-widget_type="tp-clients-listout.default">
 				<div class="elementor-widget-container">
-			<div id="pt-plus-clients-post-list" class="clients-list post64ba565ee688e  list-carousel-slick client-style-1 "   data-slider_direction="false" data-slide_speed="1500" data-slider_desktop_column="5" data-steps_slide="1" data-slider_draggable="false" data-multi_drag="false" data-slider_infinite="true" data-slider_pause_hover="false" data-slider_adaptive_height="false" data-slider_animation="ease" data-slider_autoplay="true" data-autoplay_speed="1700" data-slider_tablet_column="3" data-tablet_steps_slide="1" data-slider_responsive_tablet="no" data-slider_mobile_column="3" data-mobile_steps_slide="1" data-slider_responsive_mobile="yes" data-mobile_slider_draggable="false" data-mobile_slider_infinite="true" data-mobile_slider_autoplay="true" data-mobile_autoplay_speed="1500" data-mobile_slider_dots="false" data-mobile_slider_arrows="false" data-mobile_slider_rows="1" data-mobile_center_mode="true"  data-mobile_center_padding="0" data-slider_dots="false" data-slider_dots_style="slick-dots " data-slider_arrows="false" data-slider_arrows_style=""  data-arrows_position=""  data-arrow_bg_color=""  data-arrow_icon_color=""  data-arrow_hover_bg_color=""  data-arrow_hover_icon_color=""  data-slider_center_mode="true"  data-center_padding="44"  data-scale_center_slide="0.8"  data-scale_normal_slide="0.6"  data-opacity_normal_slide="0.6"  data-slider_rows="1"  data-id="post64ba565ee688e" data-style="style-1"  data-enable-isotope="1"><div class="tp-row post-inner-loop    flex-wrap tp-align-items-center post64ba565ee688e"><div class="grid-item flex-column flex-wrap     "><article id="post-27624" class="post-27624 theplus_clients type-theplus_clients status-publish has-post-thumbnail hentry theplus_clients_cat-nft-blog">
+			<div id="pt-plus-clients-post-list" class="clients-list post64dcc95a2fa5c  list-carousel-slick client-style-1 "   data-slider_direction="false" data-slide_speed="1500" data-slider_desktop_column="5" data-steps_slide="1" data-slider_draggable="false" data-multi_drag="false" data-slider_infinite="true" data-slider_pause_hover="false" data-slider_adaptive_height="false" data-slider_animation="ease" data-slider_autoplay="true" data-autoplay_speed="1700" data-slider_tablet_column="3" data-tablet_steps_slide="1" data-slider_responsive_tablet="no" data-slider_mobile_column="3" data-mobile_steps_slide="1" data-slider_responsive_mobile="yes" data-mobile_slider_draggable="false" data-mobile_slider_infinite="true" data-mobile_slider_autoplay="true" data-mobile_autoplay_speed="1500" data-mobile_slider_dots="false" data-mobile_slider_arrows="false" data-mobile_slider_rows="1" data-mobile_center_mode="true"  data-mobile_center_padding="0" data-slider_dots="false" data-slider_dots_style="slick-dots " data-slider_arrows="false" data-slider_arrows_style=""  data-arrows_position=""  data-arrow_bg_color=""  data-arrow_icon_color=""  data-arrow_hover_bg_color=""  data-arrow_hover_icon_color=""  data-slider_center_mode="true"  data-center_padding="44"  data-scale_center_slide="0.8"  data-scale_normal_slide="0.6"  data-opacity_normal_slide="0.6"  data-slider_rows="1"  data-id="post64dcc95a2fa5c" data-style="style-1"  data-enable-isotope="1"><div class="tp-row post-inner-loop    flex-wrap tp-align-items-center post64dcc95a2fa5c"><div class="grid-item flex-column flex-wrap     "><article id="post-27624" class="post-27624 theplus_clients type-theplus_clients status-publish has-post-thumbnail hentry theplus_clients_cat-nft-blog">
 	<div class="client-post-content">
 		<div class="client-content-logo">
 		<div>	<div class="client-featured-logo">
@@ -3374,7 +3374,7 @@ Marketing stakeholders should have granular visibility into where ads are runnin
 				</div>
 				<div class="elementor-element elementor-element-0158cc6 elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-tp-cascading-image" data-id="0158cc6" data-element_type="widget" data-widget_type="tp-cascading-image.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_animated_image cascading-block  wpb_single_image cascading_64ba565f1060b   "  ><div class="cascading-inner-loop "><div id="cascading64ba565f106290" class="cascading-image elementor-repeater-item-2cb0931 img64ba565f1061c0   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1422854   not-link-content  " ><img width="531" height="1165" src="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_One-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_One-1.png 531w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_One-1-137x300.png 137w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_One-1-467x1024.png 467w" sizes="(max-width: 531px) 100vw, 531px" /></div></div></div><div id="cascading64ba565f10b361" class="cascading-image elementor-repeater-item-4291728 img64ba565f10b341   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1314573   not-link-content  " ><img width="724" height="1165" src="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Two-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Two-1.png 724w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Two-1-186x300.png 186w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Two-1-636x1024.png 636w" sizes="(max-width: 724px) 100vw, 724px" /></div></div></div><div id="cascading64ba565f10f0f2" class="cascading-image elementor-repeater-item-a327a6f img64ba565f10f0c2   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1497098   not-link-content  " ><img width="519" height="1165" src="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Three-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Three-1.png 519w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Three-1-134x300.png 134w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Three-1-456x1024.png 456w" sizes="(max-width: 519px) 100vw, 519px" /></div></div></div><div id="cascading64ba565f112873" class="cascading-image elementor-repeater-item-547ebcd img64ba565f112853   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1425318   not-link-content  " ><img width="521" height="1165" src="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Four-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Four-1.png 521w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Four-1-134x300.png 134w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Four-1-458x1024.png 458w" sizes="(max-width: 521px) 100vw, 521px" /></div></div></div><div id="cascading64ba565f115a64" class="cascading-image elementor-repeater-item-e2ac427 img64ba565f115a44   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1342927   not-link-content  " ><img width="517" height="1165" src="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Five-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Five-1.png 517w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Five-1-133x300.png 133w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Five-1-454x1024.png 454w" sizes="(max-width: 517px) 100vw, 517px" /></div></div></div></div></div><style>.cascading-image.img64ba565f1061c0{top:auto;bottom:auto;left:-60%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img64ba565f10b341{top:auto;bottom:auto;left:-35%;right:0%;max-width:246px;margin: 0 auto;}.cascading-image.img64ba565f10f0c2{top:auto;bottom:auto;left:0%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img64ba565f112853{top:-20%;bottom:auto;left:30%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img64ba565f115a44{top:0%;bottom:auto;left:60%;right:0%;max-width:180px;margin: 0 auto;}</style>		</div>
+			<div class="pt_plus_animated_image cascading-block  wpb_single_image cascading_64dcc95a55379   "  ><div class="cascading-inner-loop "><div id="cascading64dcc95a553990" class="cascading-image elementor-repeater-item-2cb0931 img64dcc95a5538d0   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1305492   not-link-content  " ><img width="531" height="1165" src="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_One-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_One-1.png 531w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_One-1-137x300.png 137w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_One-1-467x1024.png 467w" sizes="(max-width: 531px) 100vw, 531px" /></div></div></div><div id="cascading64dcc95a559231" class="cascading-image elementor-repeater-item-4291728 img64dcc95a559211   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1047945   not-link-content  " ><img width="724" height="1165" src="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Two-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Two-1.png 724w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Two-1-186x300.png 186w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Two-1-636x1024.png 636w" sizes="(max-width: 724px) 100vw, 724px" /></div></div></div><div id="cascading64dcc95a55e572" class="cascading-image elementor-repeater-item-a327a6f img64dcc95a55e532   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1455339   not-link-content  " ><img width="519" height="1165" src="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Three-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Three-1.png 519w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Three-1-134x300.png 134w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Three-1-456x1024.png 456w" sizes="(max-width: 519px) 100vw, 519px" /></div></div></div><div id="cascading64dcc95a563333" class="cascading-image elementor-repeater-item-547ebcd img64dcc95a563303   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1304267   not-link-content  " ><img width="521" height="1165" src="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Four-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Four-1.png 521w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Four-1-134x300.png 134w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Four-1-458x1024.png 458w" sizes="(max-width: 521px) 100vw, 521px" /></div></div></div><div id="cascading64dcc95a567a04" class="cascading-image elementor-repeater-item-e2ac427 img64dcc95a5679d4   "  ><div class="cascading-image-inner " ><div class="cascading-inner-content parallax-hover-1007449   not-link-content  " ><img width="517" height="1165" src="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Five-1.png" class="parallax_image" alt="" decoding="async" srcset="https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Five-1.png 517w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Five-1-133x300.png 133w, https://www.mobkoi.com/wp-content/uploads/2022/10/NFT-Analytics_Five-1-454x1024.png 454w" sizes="(max-width: 517px) 100vw, 517px" /></div></div></div></div></div><style>.cascading-image.img64dcc95a5538d0{top:auto;bottom:auto;left:-60%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img64dcc95a559211{top:auto;bottom:auto;left:-35%;right:0%;max-width:246px;margin: 0 auto;}.cascading-image.img64dcc95a55e532{top:auto;bottom:auto;left:0%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img64dcc95a563303{top:-20%;bottom:auto;left:30%;right:0%;max-width:180px;margin: 0 auto;}.cascading-image.img64dcc95a5679d4{top:0%;bottom:auto;left:60%;right:0%;max-width:180px;margin: 0 auto;}</style>		</div>
 				</div>
 				<div class="elementor-element elementor-element-0642384 elementor-hidden-desktop elementor-widget elementor-widget-image" data-id="0642384" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
@@ -3400,7 +3400,7 @@ Marketing stakeholders should have granular visibility into where ads are runnin
 				<div class="elementor-element elementor-element-795e120 elementor-align-center e-transform elementor-widget elementor-widget-button" data-id="795e120" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:sales@mobkoi.com" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="mailto:sales@mobkoi.com">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">CONTACT SALES</span>
 		</span>

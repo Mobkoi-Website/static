@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 
 <image>
 	<url>https://www.mobkoi.com/wp-content/uploads/2022/08/cropped-Profile-Image_MOBKOI-150x150.jpg</url>
@@ -56,7 +56,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-260c269 elementor-widget elementor-widget-heading" data-id="260c269" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
+			<style>/*! elementor - v3.15.0 - 09-08-2023 */
 .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">7 Flashy New Mobile Ad Creatives for 2023</h2>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-44151270 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default magic-button-disabled-no" data-id="44151270" data-element_type="section">
@@ -78,7 +78,7 @@
 				<div class="elementor-element elementor-element-2c5dafb elementor-mobile-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="2c5dafb" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.mobkoi.com/resource_hub" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://www.mobkoi.com/resource_hub">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">BLOG HOME</span>
 		</span>
@@ -116,8 +116,8 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-b385e2c elementor-position-left elementor-vertical-align-middle elementor-widget elementor-widget-image-box" data-id="b385e2c" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
-.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="1667" height="1667" src="https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon.png" class="attachment-full size-full wp-image-28426" alt="" srcset="https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon.png 1667w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-300x300.png 300w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-1024x1024.png 1024w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-150x150.png 150w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-768x768.png 768w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-1536x1536.png 1536w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-700x700.png 700w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-650x650.png 650w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-1300x1300.png 1300w" sizes="(max-width: 1667px) 100vw, 1667px" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Augmented Reality</h2></div></div>		</div>
+			<style>/*! elementor - v3.15.0 - 09-08-2023 */
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" fetchpriority="high" width="1667" height="1667" src="https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon.png" class="attachment-full size-full wp-image-28426" alt="" srcset="https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon.png 1667w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-300x300.png 300w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-1024x1024.png 1024w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-150x150.png 150w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-768x768.png 768w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-1536x1536.png 1536w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-700x700.png 700w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-650x650.png 650w, https://www.mobkoi.com/wp-content/uploads/2023/01/One_Icon-1300x1300.png 1300w" sizes="(max-width: 1667px) 100vw, 1667px" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Augmented Reality</h2></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -143,7 +143,7 @@
 				</div>
 				<div class="elementor-element elementor-element-e5649e2 elementor-widget__width-initial elementor-hidden-mobile elementor-absolute elementor-widget elementor-widget-image" data-id="e5649e2" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
+			<style>/*! elementor - v3.15.0 - 09-08-2023 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>									<figure class="wp-caption">
 										<img decoding="async" width="900" height="900" src="https://www.mobkoi.com/wp-content/uploads/2023/01/Rimowa-AR-Model-Viewer_QR-Code.png" class="attachment-large size-large wp-image-28454" alt="" srcset="https://www.mobkoi.com/wp-content/uploads/2023/01/Rimowa-AR-Model-Viewer_QR-Code.png 900w, https://www.mobkoi.com/wp-content/uploads/2023/01/Rimowa-AR-Model-Viewer_QR-Code-300x300.png 300w, https://www.mobkoi.com/wp-content/uploads/2023/01/Rimowa-AR-Model-Viewer_QR-Code-150x150.png 150w, https://www.mobkoi.com/wp-content/uploads/2023/01/Rimowa-AR-Model-Viewer_QR-Code-768x768.png 768w, https://www.mobkoi.com/wp-content/uploads/2023/01/Rimowa-AR-Model-Viewer_QR-Code-700x700.png 700w, https://www.mobkoi.com/wp-content/uploads/2023/01/Rimowa-AR-Model-Viewer_QR-Code-650x650.png 650w, https://www.mobkoi.com/wp-content/uploads/2023/01/Rimowa-AR-Model-Viewer_QR-Code-1300x1300.png 1300w" sizes="(max-width: 900px) 100vw, 900px" />											<figcaption class="widget-image-caption wp-caption-text">SCAN TO VIEW <br>AD IN ACTION</figcaption>
 										</figure>
@@ -155,12 +155,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2ac8f13 e-transform elementor-widget elementor-widget-tp-video-player" data-id="2ac8f13" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba572002d91  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba572002d91" src="https://player.vimeo.com/video/793333069?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcca30c6bab  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcca30c6bab" src="https://player.vimeo.com/video/793333069?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-d972b6d elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="d972b6d" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://mobkoi-uk.celtra.com/preview/6bc885d4?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://mobkoi-uk.celtra.com/preview/6bc885d4?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -190,12 +190,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-a4b60e3 e-transform elementor-widget elementor-widget-tp-video-player" data-id="a4b60e3" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba57200fada  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba57200fada" src="https://player.vimeo.com/video/793904213?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcca30d3b90  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcca30d3b90" src="https://player.vimeo.com/video/793904213?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-3e9ce41 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="3e9ce41" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://mobkoi-uk.celtra.com/preview/5eab81e7?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://mobkoi-uk.celtra.com/preview/5eab81e7?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -275,12 +275,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f6a32ad e-transform elementor-widget elementor-widget-tp-video-player" data-id="f6a32ad" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba57203a8e3  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba57203a8e3" src="https://player.vimeo.com/video/793417773?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcca310a71b  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcca310a71b" src="https://player.vimeo.com/video/793417773?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-7959a39 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="7959a39" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/b41396db#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/b41396db#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -316,12 +316,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5b50992 e-transform elementor-widget elementor-widget-tp-video-player" data-id="5b50992" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba57204b110  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba57204b110" src="https://player.vimeo.com/video/785211274?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcca311c305  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcca311c305" src="https://player.vimeo.com/video/785211274?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-1a7ef31 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="1a7ef31" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/b9c93e22?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/b9c93e22?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -401,12 +401,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-99b354f e-transform elementor-widget elementor-widget-tp-video-player" data-id="99b354f" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba57207885a  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba57207885a" src="https://player.vimeo.com/video/793906284?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcca314be72  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcca314be72" src="https://player.vimeo.com/video/793906284?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5671213 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="5671213" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/c94d67ae?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/c94d67ae?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1#overrides.deviceInfo.deviceType=Phone" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -444,12 +444,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-611c1c9 e-transform elementor-widget elementor-widget-tp-video-player" data-id="611c1c9" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba5720885b8  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba5720885b8" src="https://player.vimeo.com/video/793908079?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcca315c999  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcca315c999" src="https://player.vimeo.com/video/793908079?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-63080a1 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="63080a1" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://mobkoi-uk.celtra.com/preview/a6bc0d62?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="http://mobkoi-uk.celtra.com/preview/a6bc0d62?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -525,12 +525,12 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5f5c03b e-transform animated-slow elementor-invisible elementor-widget elementor-widget-tp-video-player" data-id="5f5c03b" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.020000000000000017763568394002504646778106689453125,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="tp-video-player.default">
 				<div class="elementor-widget-container">
-			<div class="pt_plus_video-box-shadow video_player64ba5720afd47  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64ba5720afd47" src="https://player.vimeo.com/video/793909387?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
+			<div class="pt_plus_video-box-shadow video_player64dcca31840e7  " ><div class="pt_plus_video_player   text-"><div class="ts-video-wrapper embed-container  ts-type-vimeo"><iframe id="video_player64dcca31840e7" src="https://player.vimeo.com/video/793909387?html5=1&amp;background=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;&amp;autoplay=1&amp;loop=1&amp;muted=1&amp;title=1;&amp;portrait=1;&amp;byline=1;" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-972007e elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="972007e" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://mobkoi-uk.celtra.com/preview/9ed7765a?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="https://mobkoi-uk.celtra.com/preview/9ed7765a?rp.useFullWidth=1&#038;overrides.deviceInfo.deviceType=Phone&#038;fromQr=1" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">VIEW AD IN ACTION</span>
 		</span>
@@ -570,7 +570,7 @@
 				<div class="elementor-element elementor-element-795e120 elementor-align-center e-transform elementor-widget elementor-widget-button" data-id="795e120" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-5,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:sales@mobkoi.com" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-xs" href="mailto:sales@mobkoi.com">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">CONTACT SALES</span>
 		</span>
