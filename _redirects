@@ -11,7 +11,7 @@
 /theplus_clients/*						                                    /resource-hub/
 /theplus_team_member/*                                            /
 /sellers.json 							                                      https://cdn.maximus.mobkoi.com/rtb/sellers.json
-/survey/*                                                         https://www.surveymonkey.co.uk/r/SPG6P7G:splat
+/survey/:moid/:mcid                                               https://www.surveymonkey.co.uk/r/SPG6P7G?moid=:moid&mcid=:mcid
 /*                                                                https://www.mobkoi.co.jp/:splat 301! Language=ja
 /*                                                                https://www.mobkoi.co.jp/:splat 301! Language=jp
 /*                                                                https://www.mobkoi.co.jp/:splat 301! Language=jap
