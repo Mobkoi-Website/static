@@ -165,30 +165,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.mobkoi.com/advertisers/</loc>
-		<lastmod>2023-09-14T13:20:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/06/GQ_Layer-Phone_One-OPT.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/06/GQ_Layer-Phone_Two-OPT.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/06/GQ_Layer-Phone_Three-OPT.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/07/globe-9.gif</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/06/Technology-Phone.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/12/Technology-Phone-OPT.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.mobkoi.com/about/</loc>
-		<lastmod>2023-09-07T09:54:17+00:00</lastmod>
+		<lastmod>2023-09-26T07:56:36+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/08/About-Us_Eight-OPT.jpg</image:loc>
 		</image:image>
@@ -259,6 +237,9 @@
 			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/08/Toby-Doig-700x700.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2023/09/Ryan-Griffin-700x700.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/08/Caroline-Wilkinson-700x700.jpg</image:loc>
 		</image:image>
 		<image:image>
@@ -277,9 +258,6 @@
 			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/08/Marco-Cancelliere-700x700.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/08/Antoine-Katz-700x700.jpeg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/08/Ben-Peterson-700x700.jpg</image:loc>
 		</image:image>
 		<image:image>
@@ -293,6 +271,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/06/Mobkoi_Faded-Logo.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.mobkoi.com/advertisers/</loc>
+		<lastmod>2023-09-14T13:20:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/06/GQ_Layer-Phone_One-OPT.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/06/GQ_Layer-Phone_Two-OPT.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/06/GQ_Layer-Phone_Three-OPT.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/07/globe-9.gif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/06/Technology-Phone.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/12/Technology-Phone-OPT.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -368,10 +368,6 @@
 	<url>
 		<loc>https://www.mobkoi.com/cookie-policy/</loc>
 		<lastmod>2023-09-07T09:39:41+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.mobkoi.com/contact-us-old/</loc>
-		<lastmod>2023-09-07T09:39:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.mobkoi.com/website-business-partner-policy/</loc>
