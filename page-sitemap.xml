@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.mobkoi.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.mobkoi.com/blog/</loc>
-		<lastmod>2022-06-10T15:33:07+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/05/White_Primary-Logo-1024x276.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.mobkoi.com/wp-content/uploads/2021/02/Brandtech_Group_White-1024x443.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.mobkoi.com/</loc>
 		<lastmod>2023-09-07T09:54:02+00:00</lastmod>
 		<image:image>
@@ -163,6 +153,10 @@
 		<image:image>
 			<image:loc>https://www.mobkoi.com/wp-content/uploads/2022/06/Testimonial_Dazed.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://www.mobkoi.com/ipg-nl-2024/</loc>
+		<lastmod>2024-02-20T11:26:51+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.mobkoi.com/media-solutions/</loc>
